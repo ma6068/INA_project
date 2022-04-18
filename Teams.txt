@@ -1,0 +1,173 @@
+Team, Club_id, Country 
+Arsenal FC,0,England
+Chelsea FC,1,England
+Newcastle United,2,England
+Fulham FC,3,England
+West Bromwich Albion,4,England
+Manchester United,5,England
+Queens Park Rangers,6,England
+Wigan Athletic,7,England
+Norwich City,8,England
+Wolverhampton Wanderers,9,England
+Stoke City,10,England
+Everton FC,11,England
+Liverpool FC,12,England
+Tottenham Hotspur,13,England
+Blackburn Rovers,14,England
+Manchester City,15,England
+Sunderland AFC,16,England
+Bolton Wanderers,17,England
+Aston Villa,18,England
+Swansea City,19,England
+West Ham United,20,England
+Southampton FC,21,England
+Reading FC,22,England
+Cardiff City,23,England
+Hull City,24,England
+Crystal Palace,25,England
+Burnley FC,26,England
+Leicester City,27,England
+AFC Bournemouth,28,England
+Watford FC,29,England
+Middlesbrough FC,30,England
+Brighton & Hove Albion,31,England
+Huddersfield Town,32,England
+Sheffield United,33,England
+Leeds United,34,England
+Brentford FC,35,England
+Olympique Lyon,36,France
+FC Évian Thonon Gaillard,37,France
+Stade Brestois 29,38,France
+Dijon FCO,39,France
+Valenciennes FC,40,France
+SM Caen,41,France
+AS Nancy-Lorraine,42,France
+FC Lorient,43,France
+AC Ajaccio,44,France
+LOSC Lille,45,France
+FC Girondins Bordeaux,46,France
+Montpellier HSC,47,France
+FC Sochaux-Montbéliard,48,France
+AS Saint-Étienne,49,France
+Paris Saint-Germain,50,France
+OGC Nice,51,France
+FC Toulouse,52,France
+AJ Auxerre,53,France
+Stade Rennais FC,54,France
+Olympique Marseille,55,France
+Stade Reims,56,France
+ESTAC Troyes,57,France
+SC Bastia,58,France
+AS Monaco,59,France
+EA Guingamp,60,France
+FC Nantes,61,France
+RC Lens,62,France
+FC Metz,63,France
+SCO Angers,64,France
+GFC Ajaccio,65,France
+Amiens SC,66,France
+RC Strasbourg Alsace,67,France
+Nîmes Olympique,68,France
+Clermont Foot 63,69,France
+Bayern Munich,70,Germany
+Borussia Dortmund,71,Germany
+Bayer 04 Leverkusen,72,Germany
+FC Schalke 04,73,Germany
+SC Freiburg,74,Germany
+Hamburger SV,75,Germany
+Borussia Mönchengladbach,76,Germany
+Hannover 96,77,Germany
+1.FC Nuremberg,78,Germany
+VfL Wolfsburg,79,Germany
+VfB Stuttgart,80,Germany
+1.FSV Mainz 05,81,Germany
+SV Werder Bremen,82,Germany
+FC Augsburg,83,Germany
+TSG 1899 Hoffenheim,84,Germany
+Hertha BSC,85,Germany
+1. FC Köln,86,Germany
+1.FC Kaiserslautern,87,Germany
+Eintracht Frankfurt,88,Germany
+SpVgg Greuther Fürth,89,Germany
+Fortuna Düsseldorf,90,Germany
+Eintracht Braunschweig,91,Germany
+SC Paderborn 07,92,Germany
+FC Ingolstadt 04,93,Germany
+SV Darmstadt 98,94,Germany
+RB Leipzig,95,Germany
+1.FC Union Berlin,96,Germany
+Arminia Bielefeld,97,Germany
+VfL Bochum,98,Germany
+Atalanta BC,99,Italy
+Novara Calcio 1908,100,Italy
+SSC Napoli,101,Italy
+Calcio Catania,102,Italy
+AC Cesena,103,Italy
+Cagliari Calcio,104,Italy
+AC Siena,105,Italy
+Bologna FC 1909,106,Italy
+US Lecce,107,Italy
+Chievo Verona,108,Italy
+AC Milan,109,Italy
+Juventus FC,110,Italy
+US Palermo,111,Italy
+ACF Fiorentina,112,Italy
+Udinese Calcio,113,Italy
+SS Lazio,114,Italy
+Genoa CFC,115,Italy
+Parma FC,116,Italy
+FC Internazionale,117,Italy
+AS Roma,118,Italy
+Delfino Pescara 1936,119,Italy
+Torino FC,120,Italy
+UC Sampdoria,121,Italy
+US Sassuolo,122,Italy
+AS Livorno,123,Italy
+Hellas Verona,124,Italy
+Empoli FC,125,Italy
+Inter Milan,126,Italy
+Carpi FC 1909,127,Italy
+Frosinone Calcio,128,Italy
+FC Crotone,129,Italy
+Benevento Calcio,130,Italy
+SPAL 2013,131,Italy
+Parma Calcio 1913,132,Italy
+SPAL,133,Italy
+Brescia Calcio,134,Italy
+Spezia Calcio,135,Italy
+FC Empoli,136,Italy
+US Salernitana 1919,137,Italy
+Venezia FC,138,Italy
+Racing Santander,139,Spain
+Granada CF,140,Spain
+Getafe CF,141,Spain
+Levante UD,142,Spain
+Sporting Gijón,143,Spain
+Málaga CF,144,Spain
+Villarreal CF,145,Spain
+Valencia CF,146,Spain
+RCD Espanyol Barcelona,147,Spain
+Real Sociedad,148,Spain
+Atlético de Madrid,149,Spain
+Real Madrid,150,Spain
+Sevilla FC,151,Spain
+Rayo Vallecano,152,Spain
+CA Osasuna,153,Spain
+RCD Mallorca,154,Spain
+Real Betis Balompié,155,Spain
+Real Zaragoza,156,Spain
+FC Barcelona,157,Spain
+Athletic Bilbao,158,Spain
+Celta de Vigo,159,Spain
+Deportivo de La Coruña,160,Spain
+Real Valladolid CF,161,Spain
+UD Almería,162,Spain
+Elche CF,163,Spain
+SD Eibar,164,Spain
+Córdoba CF,165,Spain
+UD Las Palmas,166,Spain
+Deportivo Alavés,167,Spain
+CD Leganés,168,Spain
+Girona FC,169,Spain
+SD Huesca,170,Spain
+Cádiz CF,171,Spain
