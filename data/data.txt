@@ -314,7 +314,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 11,Arsenal FC,England,in,CM,29,Everton FC,England,12000000.0
 11,Arsenal FC,England,in,CB,86,SV Werder Bremen,Germany,11300000.0
 11,Arsenal FC,England,in,AM,36,Fenerbahce SK,Other,7000000.0
-11,Arsenal FC,England,in,CF,162,AS Monaco,France,6800000.0
 11,Arsenal FC,England,in,RB,358,Charlton Athletic,England,1730000.0
 11,Arsenal FC,England,in,RW,4720,Deportivo Saprissa,Other,3000000.0
 11,Arsenal FC,England,in,RW,631,Chelsea FC,England,0.0
@@ -442,7 +441,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 289,Sunderland AFC,England,in,CM,337,Birmingham City,England,6600000.0
 289,Sunderland AFC,England,in,CB,985,Manchester United,England,4500000.0
 289,Sunderland AFC,England,in,RB,9218,Enppi SC,Other,3300000.0
-289,Sunderland AFC,England,in,CF,6503,Chunnam Dragons,Other,3200000.0
 289,Sunderland AFC,England,in,CB,985,Manchester United,England,1500000.0
 289,Sunderland AFC,England,in,CF,11,Arsenal FC,England,1000000.0
 289,Sunderland AFC,England,in,LM,920,Derry City,Other,2250000.0
@@ -1073,7 +1071,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 631,Chelsea FC,England,left,DM,418,Real Madrid,Spain,0.0
 631,Chelsea FC,England,left,AM,192,Roda JC Kerkrade,Other,100000.0
 631,Chelsea FC,England,left,CF,984,West Bromwich Albion,England,100000000.0
-2288,Swansea City,England,in,DM,371,Celtic FC,Other,8000000.0
 2288,Swansea City,England,in,AM,1049,Valencia CF,Spain,7800000.0
 2288,Swansea City,England,in,SS,367,Rayo Vallecano,Spain,2570000.0
 2288,Swansea City,England,in,CB,252,Genoa CFC,Italy,2500000.0
@@ -1117,7 +1114,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 985,Manchester United,England,in,GK,1010,Watford FC,England,0.0
 985,Manchester United,England,in,LW,114,Besiktas JK,Other,800000.0
 985,Manchester United,England,left,CF,931,Fulham FC,England,5000000.0
-985,Manchester United,England,left,AM,1039,Queens Park Rangers,England,3100000.0
 985,Manchester United,England,left,CB,1003,Leicester City,England,3050000.0
 985,Manchester United,England,left,GK,1237,Brighton & Hove Albion,England,0.0
 985,Manchester United,England,left,GK,3008,Hull City,England,250000.0
@@ -1220,7 +1216,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 11,Arsenal FC,England,left,DM,131,FC Barcelona,Spain,19400000.0
 11,Arsenal FC,England,left,RW,681,Real Sociedad,Spain,19000000.0
 11,Arsenal FC,England,left,CM,703,Nottingham Forest,England,2250000.0
-11,Arsenal FC,England,left,CF,940,Celta de Vigo,Spain,800000.0
 11,Arsenal FC,England,left,GK,1010,Watford FC,England,0.0
 11,Arsenal FC,England,left,RB,3696,Dagenham & Redbridge FC,England,0.0
 11,Arsenal FC,England,left,LB,679,Atlético Paranaense,Other,550000.0
@@ -1563,7 +1558,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 1039,Queens Park Rangers,England,in,DM,244,Olympique Marseille,France,6200000.0
 1039,Queens Park Rangers,England,in,DM,1159,AS Nancy-Lorraine,France,4325000.0
 1039,Queens Park Rangers,England,in,LW,164,Blackburn Rovers,England,4750000.0
-1039,Queens Park Rangers,England,in,AM,985,Manchester United,England,3100000.0
 1039,Queens Park Rangers,England,in,GK,46,FC Internazionale,Italy,0.0
 1039,Queens Park Rangers,England,in,RB,1020,Portsmouth FC,England,0.0
 1039,Queens Park Rangers,England,in,GK,379,West Ham United,England,0.0
@@ -1791,7 +1785,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 289,Sunderland AFC,England,in,RB,3008,Hull City,England,800000.0
 289,Sunderland AFC,England,left,CM,3008,Hull City,England,1800000.0
 289,Sunderland AFC,England,left,CF,603,Cardiff City,England,1475000.0
-289,Sunderland AFC,England,left,CF,167,FC Augsburg,Germany,850000.0
 289,Sunderland AFC,England,left,SS,987,Motherwell FC,Other,0.0
 289,Sunderland AFC,England,left,CF,398,SS Lazio,Italy,0.0
 289,Sunderland AFC,England,left,CM,4080,Workington AFC,England,0.0
@@ -1940,7 +1933,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 1039,Queens Park Rangers,England,in,CF,244,Olympique Marseille,France,11050000.0
 1039,Queens Park Rangers,England,in,CM,148,Tottenham Hotspur,England,0.0
 1039,Queens Park Rangers,England,in,RW,148,Tottenham Hotspur,England,7000000.0
-1039,Queens Park Rangers,England,in,LB,6503,Chunnam Dragons,Other,350000.0
 1039,Queens Park Rangers,England,in,CB,515,Without Club,Other,0.0
 1039,Queens Park Rangers,England,in,CF,1060,Colchester United,England,0.0
 1039,Queens Park Rangers,England,in,CF,2796,Woking FC,England,0.0
@@ -2113,12 +2105,10 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 11,Arsenal FC,England,in,AM,210,Grêmio Foot-Ball Porto Alegrense,Other,0.0
 11,Arsenal FC,England,in,CB,42,Hannover 96,Germany,0.0
 11,Arsenal FC,England,in,CF,506,Juventus FC,Italy,0.0
-11,Arsenal FC,England,in,CF,940,Celta de Vigo,Spain,300000.0
 11,Arsenal FC,England,in,RW,4032,SD Ponferradina,Spain,850000.0
 11,Arsenal FC,England,in,RW,150,Real Betis Balompié,Spain,2000000.0
 11,Arsenal FC,England,in,GK,1035,Sheffield Wednesday,England,35000000.0
 11,Arsenal FC,England,in,CB,903,Hibernian FC,Other,0.0
-11,Arsenal FC,England,in,CF,1010,Watford FC,England,300000.0
 11,Arsenal FC,England,in,CB,1003,Leicester City,England,1000000.0
 11,Arsenal FC,England,in,DM,585,São Paulo Futebol Clube,Other,150000.0
 11,Arsenal FC,England,left,LW,12,AS Roma,Italy,9500000.0
@@ -2270,7 +2260,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 2288,Swansea City,England,in,CM,150,Real Betis Balompié,Spain,100000.0
 2288,Swansea City,England,in,LB,9249,Arsenal FC U21,England,200000.0
 2288,Swansea City,England,in,LW,515,Without Club,Other,500000.0
-2288,Swansea City,England,in,DM,289,Sunderland AFC,England,1000000.0
 2288,Swansea City,England,in,RB,1020,Portsmouth FC,England,0.0
 2288,Swansea City,England,in,CB,370,Aberdeen FC,Other,0.0
 2288,Swansea City,England,in,LB,1031,Luton Town,England,200000.0
@@ -2282,7 +2271,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 2288,Swansea City,England,left,RB,1110,Huddersfield Town,England,50000.0
 2288,Swansea City,England,left,CB,337,Birmingham City,England,2500000.0
 2288,Swansea City,England,left,GK,465,St. Mirren FC,Other,200000.0
-2288,Swansea City,England,left,DM,289,Sunderland AFC,England,1000000.0
 2288,Swansea City,England,left,CF,1237,Brighton & Hove Albion,England,0.0
 2288,Swansea City,England,left,CF,2,1.FC Kaiserslautern,Germany,200000.0
 379,West Ham United,England,in,CF,31,Liverpool FC,England,18500000.0
@@ -2503,7 +2491,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 289,Sunderland AFC,England,in,CB,1301,CS Marítimo,Other,400000.0
 289,Sunderland AFC,England,in,DM,26,FC Basel 1893,Other,0.0
 289,Sunderland AFC,England,in,CB,398,SS Lazio,Italy,50000.0
-289,Sunderland AFC,England,in,DM,2288,Swansea City,England,1000000.0
 289,Sunderland AFC,England,in,GK,9264,Sunderland AFC U21,England,25000000.0
 289,Sunderland AFC,England,in,GK,9264,Sunderland AFC U21,England,0.0
 289,Sunderland AFC,England,in,DM,703,Nottingham Forest,England,0.0
@@ -2511,7 +2498,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 289,Sunderland AFC,England,in,GK,1220,Carlisle United,England,25000000.0
 289,Sunderland AFC,England,in,CB,2793,Southend United,England,9000000.0
 289,Sunderland AFC,England,in,CB,2577,Hartlepool United,England,0.0
-289,Sunderland AFC,England,in,CF,167,FC Augsburg,Germany,800000.0
 289,Sunderland AFC,England,in,CF,641,Middlesbrough FC,England,0.0
 289,Sunderland AFC,England,left,GK,31,Liverpool FC,England,18600000.0
 289,Sunderland AFC,England,left,AM,984,West Bromwich Albion,England,7225000.0
@@ -2529,7 +2515,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 289,Sunderland AFC,England,left,CF,3008,Hull City,England,0.0
 289,Sunderland AFC,England,left,CB,Retired,Retired,Other,0.0
 289,Sunderland AFC,England,left,LW,31,Liverpool FC,England,3500000.0
-289,Sunderland AFC,England,left,DM,2288,Swansea City,England,1000000.0
 289,Sunderland AFC,England,left,CB,1114,Al-Hilal Riyadh,Other,0.0
 603,Cardiff City,England,in,CB,368,Sevilla FC,Spain,14000000.0
 603,Cardiff City,England,in,CB,148,Tottenham Hotspur,England,13150000.0
@@ -2702,7 +2687,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 11,Arsenal FC,England,left,DM,349,Barnsley FC,England,250000.0
 11,Arsenal FC,England,left,DM,1148,Brentford FC,England,700000.0
 11,Arsenal FC,England,left,DM,989,AFC Bournemouth,England,600000.0
-11,Arsenal FC,England,left,CF,1010,Watford FC,England,300000.0
 11,Arsenal FC,England,left,CB,903,Hibernian FC,Other,0.0
 148,Tottenham Hotspur,England,in,CM,9254,Tottenham Hotspur U21,England,1800000.0
 148,Tottenham Hotspur,England,in,AM,352,Swindon Town,England,2500000.0
@@ -2914,7 +2898,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 289,Sunderland AFC,England,left,CF,11177,Fleetwood Town,England,100000.0
 289,Sunderland AFC,England,left,CB,2413,Bury FC,England,0.0
 289,Sunderland AFC,England,left,CF,1035,Sheffield Wednesday,England,1000000.0
-289,Sunderland AFC,England,left,CF,167,FC Augsburg,Germany,800000.0
 289,Sunderland AFC,England,left,CB,430,ACF Fiorentina,Italy,50000.0
 289,Sunderland AFC,England,left,RW,2553,Kilmarnock FC,Other,2200000.0
 289,Sunderland AFC,England,left,DM,150,Real Betis Balompié,Spain,2300000.0
@@ -3036,7 +3019,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 11,Arsenal FC,England,left,RW,317,Twente Enschede FC,Other,400000.0
 11,Arsenal FC,England,left,CM,865,FC Midtjylland,Other,3500000.0
 11,Arsenal FC,England,left,RB,379,West Ham United,England,600000.0
-11,Arsenal FC,England,left,CF,515,Without Club,Other,300000.0
 11,Arsenal FC,England,left,CM,232,Spartak Moscow,Other,0.0
 11,Arsenal FC,England,left,GK,458,US Palermo,Italy,300000.0
 405,Aston Villa,England,in,DM,1531,Elche CF,Spain,6300000.0
@@ -3449,7 +3431,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 1039,Queens Park Rangers,England,in,CB,12805,Queens Park Rangers U18,England,100000.0
 1039,Queens Park Rangers,England,in,GK,33727,Queens Park Rangers U23,England,0.0
 1039,Queens Park Rangers,England,in,GK,29842,Concord Rangers,England,0.0
-1039,Queens Park Rangers,England,in,AM,383,PSV Eindhoven,Other,0.0
 1039,Queens Park Rangers,England,in,CB,2814,Gillingham FC,England,175000.0
 1039,Queens Park Rangers,England,in,LW,3684,Stevenage FC,England,0.0
 1039,Queens Park Rangers,England,in,CB,1060,Colchester United,England,100000.0
@@ -3485,7 +3466,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 1039,Queens Park Rangers,England,left,CF,515,Without Club,Other,0.0
 1039,Queens Park Rangers,England,left,LM,515,Without Club,Other,0.0
 1039,Queens Park Rangers,England,left,RB,Retired,Retired,Other,0.0
-1039,Queens Park Rangers,England,left,AM,Retired,Retired,Other,0.0
 1039,Queens Park Rangers,England,left,CM,515,Without Club,Other,0.0
 1039,Queens Park Rangers,England,left,CF,379,West Ham United,England,1000000.0
 1039,Queens Park Rangers,England,left,CF,679,Atlético Paranaense,Other,550000.0
@@ -3815,7 +3795,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 873,Crystal Palace,England,in,LB,1082,LOSC Lille,France,6000000.0
 873,Crystal Palace,England,in,LW,985,Manchester United,England,48800000.0
 873,Crystal Palace,England,in,LW,8813,Barton Rovers,England,190000.0
-873,Crystal Palace,England,in,RW,355,Bolton Wanderers,England,650000.0
 873,Crystal Palace,England,in,CF,11,Arsenal FC,England,900000.0
 873,Crystal Palace,England,in,CF,515,Without Club,Other,0.0
 873,Crystal Palace,England,in,LB,1194,Rotherham United,England,800000.0
@@ -4213,7 +4192,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 985,Manchester United,England,left,CF,466,Preston North End,England,600000.0
 985,Manchester United,England,left,LB,371,Celtic FC,Other,1000000.0
 985,Manchester United,England,left,CF,162,AS Monaco,France,2200000.0
-148,Tottenham Hotspur,England,in,LW,15,Bayer 04 Leverkusen,Germany,115000000.0
 148,Tottenham Hotspur,England,in,CB,13,Atlético de Madrid,Spain,26000000.0
 148,Tottenham Hotspur,England,in,RW,1041,Olympique Lyon,France,15900000.0
 148,Tottenham Hotspur,England,in,CB,3,1. FC Köln,Germany,7000000.0
@@ -6813,7 +6791,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 762,Newcastle United,England,in,GK,197,AC Sparta Prague,Other,9000000.0
 762,Newcastle United,England,in,CB,897,Deportivo de La Coruña,Spain,13000000.0
 762,Newcastle United,England,in,CF,984,West Bromwich Albion,England,7200000.0
-762,Newcastle United,England,in,DM,2288,Swansea City,England,1000000.0
 762,Newcastle United,England,in,CM,3688,Accrington Stanley,England,1200000.0
 762,Newcastle United,England,in,RW,984,West Bromwich Albion,England,5000000.0
 762,Newcastle United,England,in,LW,1035,Sheffield Wednesday,England,400000.0
@@ -6853,7 +6830,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 873,Crystal Palace,England,left,CB,126,Caykur Rizespor,Other,650000.0
 873,Crystal Palace,England,left,CB,511,Dundee FC,Other,150000.0
 873,Crystal Palace,England,left,GK,515,Without Club,Other,200000.0
-873,Crystal Palace,England,left,RW,515,Without Club,Other,650000.0
 873,Crystal Palace,England,left,LW,515,Without Club,Other,400000.0
 873,Crystal Palace,England,left,CM,294,SL Benfica,Other,900000.0
 873,Crystal Palace,England,left,CF,2288,Swansea City,England,8000000.0
@@ -7214,7 +7190,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 873,Crystal Palace,England,in,CB,511,Dundee FC,Other,150000.0
 873,Crystal Palace,England,left,CF,157,KAA Gent,Other,16350000.0
 873,Crystal Palace,England,left,AM,358,Charlton Athletic,England,800000.0
-873,Crystal Palace,England,left,16696,Gyeongnam FC,"Korea,Other,450000.0
 873,Crystal Palace,England,left,LW,132,NAC Breda,Other,300000.0
 873,Crystal Palace,England,left,GK,7047,Maidstone United,England,50000.0
 873,Crystal Palace,England,left,CM,1110,Huddersfield Town,England,500000.0
@@ -7972,7 +7947,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 762,Newcastle United,England,in,RB,46,Inter Milan,Italy,11500000.0
 762,Newcastle United,England,in,CM,33,FC Schalke 04,Germany,2800000.0
 762,Newcastle United,England,in,LW,2805,Wycombe Wanderers,England,400000.0
-762,Newcastle United,England,left,DM,237,RCD Mallorca,Spain,1000000.0
 762,Newcastle United,England,left,LW,987,Motherwell FC,Other,400000.0
 989,AFC Bournemouth,England,in,LB,9636,Seattle Sounders FC,Other,1200000.0
 989,AFC Bournemouth,England,in,CM,51663,Atlanta United FC,Other,1500000.0
@@ -9221,7 +9195,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 543,Wolverhampton Wanderers,England,in,RW,131,FC Barcelona,Spain,28000000.0
 543,Wolverhampton Wanderers,England,in,CB,8172,Atlético Nacional,Other,6900000.0
 543,Wolverhampton Wanderers,England,in,RB,11107,MOL Fehérvár FC,Other,3000000.0
-543,Wolverhampton Wanderers,England,in,CF,23826,RB Leipzig,Germany,11000000.0
 543,Wolverhampton Wanderers,England,in,CM,465,St. Mirren FC,Other,450000.0
 543,Wolverhampton Wanderers,England,in,GK,337,Birmingham City,England,100000.0
 543,Wolverhampton Wanderers,England,in,CM,350,Sheffield United,England,7000000.0
@@ -9851,7 +9824,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 331,CA Osasuna,Spain,left,CF,12405,Real Unión Club,Spain,250000.0
 237,RCD Mallorca,Spain,in,CF,1184,KRC Genk,Other,0.0
 237,RCD Mallorca,Spain,left,RB,1784,Mogi Mirim Esporte Clube (SP),Other,0.0
-237,RCD Mallorca,Spain,left,3535,Ulsan Hyundai,"Korea,Other,1200000.0
 150,Real Betis Balompié,Spain,in,CB,618,AS Saint-Étienne,France,0.0
 150,Real Betis Balompié,Spain,left,LW,472,UD Las Palmas,Spain,0.0
 150,Real Betis Balompié,Spain,left,RW,11422,CE Sabadell,Spain,0.0
@@ -10057,7 +10029,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 940,Celta de Vigo,Spain,in,CM,1029,Club Atlético Vélez Sarsfield,Other,1500000.0
 940,Celta de Vigo,Spain,in,CM,206,Bröndby IF,Other,1000000.0
 940,Celta de Vigo,Spain,in,CB,4673,Arsenal Fútbol Club,Other,1700000.0
-940,Celta de Vigo,Spain,in,CF,11,Arsenal FC,England,800000.0
 940,Celta de Vigo,Spain,in,CB,7971,Hércules CF,Spain,450000.0
 940,Celta de Vigo,Spain,in,GK,368,Sevilla FC,Spain,0.0
 940,Celta de Vigo,Spain,in,RW,8733,Celta Vigo B,Spain,1500000.0
@@ -10281,7 +10252,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 237,RCD Mallorca,Spain,in,CB,8494,RCD Mallorca B,Spain,1200000.0
 237,RCD Mallorca,Spain,in,RB,8494,RCD Mallorca B,Spain,1800000.0
 237,RCD Mallorca,Spain,in,CF,2867,Recreativo Huelva,Spain,1800000.0
-237,RCD Mallorca,Spain,in,3535,Ulsan Hyundai,"Korea,Other,1200000.0
 237,RCD Mallorca,Spain,left,CB,1071,Wigan Athletic,England,6000000.0
 237,RCD Mallorca,Spain,left,LB,18720,Rangers de Talca,Other,0.0
 237,RCD Mallorca,Spain,left,RB,157,KAA Gent,Other,50000.0
@@ -10541,7 +10511,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 940,Celta de Vigo,Spain,left,CM,2448,Sporting Gijón,Spain,0.0
 940,Celta de Vigo,Spain,left,LB,336,Sporting CP,Other,0.0
 940,Celta de Vigo,Spain,left,CB,24,Eintracht Frankfurt,Germany,0.0
-940,Celta de Vigo,Spain,left,CF,11,Arsenal FC,England,300000.0
 940,Celta de Vigo,Spain,left,GK,368,Sevilla FC,Spain,0.0
 1049,Valencia CF,Spain,in,RW,2407,CF Monterrey,Other,9500000.0
 1049,Valencia CF,Spain,in,CF,2698,Rubin Kazan,Other,3000000.0
@@ -14777,7 +14746,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 368,Sevilla FC,Spain,left,AM,2462,Fluminense Football Club,Other,800000.0
 1049,Valencia CF,Spain,in,CF,1108,Deportivo Alavés,Spain,6500000.0
 1049,Valencia CF,Spain,in,CB,940,Celta de Vigo,Spain,1000000.0
-1049,Valencia CF,Spain,in,AM,6182,Valencia Mestalla,Spain,10000000.0
 1049,Valencia CF,Spain,in,LW,6182,Valencia Mestalla,Spain,1500000.0
 1049,Valencia CF,Spain,in,CB,2125,Esporte Clube Vitória,Other,800000.0
 1049,Valencia CF,Spain,left,CB,18487,Al-Ahli Jeddah,Other,5800000.0
@@ -15674,7 +15642,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 16795,Granada CF,Spain,left,CF,2352,CD América de Cali,Other,650000.0
 16795,Granada CF,Spain,left,CB,2296,CD Numancia,Spain,350000.0
 237,RCD Mallorca,Spain,in,LB,683,Olympiacos Piraeus,Other,2300000.0
-237,RCD Mallorca,Spain,in,DM,762,Newcastle United,England,1000000.0
 237,RCD Mallorca,Spain,in,RB,368,Sevilla FC,Spain,4000000.0
 237,RCD Mallorca,Spain,in,CF,4032,SD Ponferradina,Spain,250000.0
 237,RCD Mallorca,Spain,in,LW,3708,Barakaldo CF,Spain,250000.0
@@ -16703,7 +16670,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 1049,Valencia CF,Spain,in,CB,940,Celta de Vigo,Spain,1000000.0
 1049,Valencia CF,Spain,in,CF,2687,Cádiz CF,Spain,1500000.0
 1049,Valencia CF,Spain,in,CB,1532,Albacete Balompié,Spain,200000.0
-1049,Valencia CF,Spain,left,AM,237,RCD Mallorca,Spain,10000000.0
 1049,Valencia CF,Spain,left,CB,1532,Albacete Balompié,Spain,200000.0
 1049,Valencia CF,Spain,left,CF,667,RC Strasbourg Alsace,France,3000000.0
 1049,Valencia CF,Spain,left,CF,2687,Cádiz CF,Spain,1500000.0
@@ -16815,7 +16781,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 237,RCD Mallorca,Spain,in,GK,540,Slovan Bratislava,Other,4500000.0
 237,RCD Mallorca,Spain,in,RB,79,VfB Stuttgart,Germany,4000000.0
 237,RCD Mallorca,Spain,in,CF,3709,Getafe CF,Spain,2000000.0
-237,RCD Mallorca,Spain,in,AM,1049,Valencia CF,Spain,10000000.0
 237,RCD Mallorca,Spain,in,LB,1050,Villarreal CF,Spain,2000000.0
 237,RCD Mallorca,Spain,in,CF,1050,Villarreal CF,Spain,5000000.0
 237,RCD Mallorca,Spain,in,CM,336,Sporting CP,Other,2500000.0
@@ -25041,7 +25006,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 1390,Cagliari Calcio,Italy,in,GK,5,AC Milan,Italy,1200000.0
 1390,Cagliari Calcio,Italy,in,LB,46,Inter Milan,Italy,700000.0
 1390,Cagliari Calcio,Italy,in,RB,6692,Novara Calcio 1908,Italy,2000000.0
-1390,Cagliari Calcio,Italy,in,CF,5663,Cagliari Youth,Italy,1700000.0
 1390,Cagliari Calcio,Italy,in,GK,11676,Cagliari Primavera,Italy,25000.0
 1390,Cagliari Calcio,Italy,left,CM,130,Parma Calcio 1913,Italy,0.0
 1390,Cagliari Calcio,Italy,left,CB,8970,Frosinone Calcio,Italy,750000.0
@@ -25475,7 +25439,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 1390,Cagliari Calcio,Italy,left,CB,2722,SPAL 2013,Italy,800000.0
 1390,Cagliari Calcio,Italy,left,DM,45837,Atletico Uri,Italy,0.0
 1390,Cagliari Calcio,Italy,left,AM,36137,Muravera Calcio,Italy,0.0
-1390,Cagliari Calcio,Italy,left,CF,839,AC Perugia Calcio,Italy,1700000.0
 1390,Cagliari Calcio,Italy,left,DM,839,AC Perugia Calcio,Italy,2500000.0
 1390,Cagliari Calcio,Italy,left,LB,839,AC Perugia Calcio,Italy,500000.0
 1390,Cagliari Calcio,Italy,left,GK,26722,Racing Fondi,Italy,0.0
@@ -25705,7 +25668,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 252,Genoa CFC,Italy,left,CM,398,SS Lazio,Italy,2500000.0
 252,Genoa CFC,Italy,left,CF,800,Atalanta BC,Italy,0.0
 252,Genoa CFC,Italy,left,CM,9265,Manchester City U23,England,3000000.0
-276,Hellas Verona,Italy,in,LW,2464,FC Barcelona B,Spain,2000000.0
 276,Hellas Verona,Italy,in,DM,281,Manchester City,England,3750000.0
 276,Hellas Verona,Italy,in,DM,1390,Cagliari Calcio,Italy,950000.0
 276,Hellas Verona,Italy,in,RW,13,Atlético de Madrid,Spain,200000.0
@@ -26640,7 +26602,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 1390,Cagliari Calcio,Italy,left,LW,54652,Calcio Sandonà,Italy,0.0
 1390,Cagliari Calcio,Italy,left,AM,3728,Union Namur Fosses-la-Ville,Other,0.0
 1390,Cagliari Calcio,Italy,left,CB,2253,SEF Torres 1903,Italy,75000.0
-1390,Cagliari Calcio,Italy,left,CF,839,AC Perugia Calcio,Italy,1700000.0
 1390,Cagliari Calcio,Italy,left,CM,9826,Olbia Calcio 1905,Italy,750000.0
 1390,Cagliari Calcio,Italy,left,CF,1210,AS Livorno,Italy,250000.0
 1390,Cagliari Calcio,Italy,left,CB,9826,Olbia Calcio 1905,Italy,175000.0
@@ -27911,7 +27872,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 1390,Cagliari Calcio,Italy,left,CF,607,Venezia FC,Italy,500000.0
 1390,Cagliari Calcio,Italy,left,DM,447,HNK Hajduk Split,Other,2700000.0
 1390,Cagliari Calcio,Italy,left,RW,122,SK Sturm Graz,Other,3500000.0
-1390,Cagliari Calcio,Italy,left,CF,41101,Juventus U23,Italy,1700000.0
 1390,Cagliari Calcio,Italy,left,CB,6574,US Sassuolo,Italy,3000000.0
 1390,Cagliari Calcio,Italy,left,GK,839,AC Perugia Calcio,Italy,2000000.0
 1390,Cagliari Calcio,Italy,left,CM,607,Venezia FC,Italy,750000.0
@@ -28080,7 +28040,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 276,Hellas Verona,Italy,in,CM,16996,Hellas Verona Primavera,Italy,150000.0
 276,Hellas Verona,Italy,left,LM,2722,SPAL,Italy,9000000.0
 276,Hellas Verona,Italy,left,CM,2722,SPAL,Italy,5500000.0
-276,Hellas Verona,Italy,left,LW,475,Sint-Truidense VV,Other,1700000.0
 276,Hellas Verona,Italy,left,CB,2239,US Cremonese,Italy,750000.0
 276,Hellas Verona,Italy,left,CB,2239,US Cremonese,Italy,700000.0
 276,Hellas Verona,Italy,left,CM,2581,Mantova 1911,Italy,50000.0
@@ -28753,7 +28712,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 19,Brescia Calcio,Italy,left,CB,6574,US Sassuolo,Italy,5000000.0
 1390,Cagliari Calcio,Italy,in,AM,383,PSV Eindhoven,Other,8100000.0
 1390,Cagliari Calcio,Italy,in,CF,2722,SPAL,Italy,800000.0
-1390,Cagliari Calcio,Italy,left,CF,41101,Juventus U23,Italy,5200000.0
 1390,Cagliari Calcio,Italy,left,RB,749,Empoli FC,Italy,200000.0
 1390,Cagliari Calcio,Italy,left,GK,9826,Olbia Calcio 1905,Italy,100000.0
 1390,Cagliari Calcio,Italy,left,CB,19133,Castelsardo Calcio,Italy,0.0
@@ -31345,7 +31303,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 82,VfL Wolfsburg,Germany,in,CM,5343,VfL Wolfsburg U19,Germany,19000000.0
 82,VfL Wolfsburg,Germany,left,CF,533,TSG 1899 Hoffenheim,Germany,1000000.0
 82,VfL Wolfsburg,Germany,left,DM,18,Borussia Mönchengladbach,Germany,800000.0
-82,VfL Wolfsburg,Germany,left,CM,167,FC Augsburg,Germany,1825000.0
 82,VfL Wolfsburg,Germany,left,CM,14171,FC Évian Thonon Gaillard,France,0.0
 82,VfL Wolfsburg,Germany,left,CB,289,Sunderland AFC,England,0.0
 82,VfL Wolfsburg,Germany,left,AM,131,FC Barcelona,Spain,0.0
@@ -31367,7 +31324,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 86,SV Werder Bremen,Germany,left,CB,162,AS Monaco,France,1500000.0
 86,SV Werder Bremen,Germany,left,CF,2,1.FC Kaiserslautern,Germany,300000.0
 167,FC Augsburg,Germany,in,LB,80,VfL Bochum,Germany,800000.0
-167,FC Augsburg,Germany,in,CM,82,VfL Wolfsburg,Germany,1825000.0
 167,FC Augsburg,Germany,in,CM,33,FC Schalke 04,Germany,575000.0
 167,FC Augsburg,Germany,left,CB,25,FC Energie Cottbus,Germany,200000.0
 167,FC Augsburg,Germany,left,CF,2036,1.FC Heidenheim 1846,Germany,0.0
@@ -31382,7 +31338,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 533,TSG 1899 Hoffenheim,Germany,left,CF,20132,Clube Atlético Linense (SP),Other,450000.0
 44,Hertha BSC,Germany,in,CB,60,SC Freiburg,Germany,375000.0
 3,1. FC Köln,Germany,in,CF,4380,Assyriska FF,Other,2780000.0
-3,1. FC Köln,Germany,in,CF,80,VfL Bochum,Germany,450000.0
 3,1. FC Köln,Germany,left,CF,109,SSV Jahn Regensburg,Germany,0.0
 3,1. FC Köln,Germany,left,CF,60,SC Freiburg,Germany,0.0
 3,1. FC Köln,Germany,left,CB,828,Urawa Red Diamonds,Other,1100000.0
@@ -31820,7 +31775,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 38,Fortuna Düsseldorf,Germany,in,GK,683,Olympiacos Piraeus,Other,550000.0
 38,Fortuna Düsseldorf,Germany,in,DM,28,FC Bayern Munich II,Germany,0.0
 38,Fortuna Düsseldorf,Germany,in,LB,143,VfL Wolfsburg II,Germany,0.0
-38,Fortuna Düsseldorf,Germany,in,RB,371,Celtic FC,Other,0.0
 38,Fortuna Düsseldorf,Germany,in,CF,167,FC Augsburg,Germany,0.0
 38,Fortuna Düsseldorf,Germany,in,AM,21,Chemnitzer FC,Germany,0.0
 38,Fortuna Düsseldorf,Germany,in,CB,87,SV Werder Bremen II,Germany,800000.0
@@ -31922,7 +31876,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 86,SV Werder Bremen,Germany,left,AM,65,SpVgg Greuther Fürth,Germany,50000.0
 86,SV Werder Bremen,Germany,left,CB,452,BSC Young Boys,Other,100000.0
 167,FC Augsburg,Germany,in,RW,107,Kickers Offenbach,Germany,2750000.0
-167,FC Augsburg,Germany,in,CF,289,Sunderland AFC,England,850000.0
 167,FC Augsburg,Germany,in,CB,2778,FC Nordsjaelland,Other,0.0
 167,FC Augsburg,Germany,in,GK,515,Without Club,Other,0.0
 167,FC Augsburg,Germany,in,AM,515,Without Club,Other,0.0
@@ -31934,7 +31887,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 65,SpVgg Greuther Fürth,Germany,in,AM,86,SV Werder Bremen,Germany,50000.0
 65,SpVgg Greuther Fürth,Germany,in,RW,7679,TSV Buchbach,Germany,325000.0
 65,SpVgg Greuther Fürth,Germany,in,GK,41,Hamburger SV,Germany,200000.0
-65,SpVgg Greuther Fürth,Germany,in,LW,143,VfL Wolfsburg II,Germany,500000.0
 65,SpVgg Greuther Fürth,Germany,in,DM,84,Debreceni VSC,Other,250000.0
 65,SpVgg Greuther Fürth,Germany,in,CF,254,SV Sandhausen,Germany,150000.0
 65,SpVgg Greuther Fürth,Germany,in,LB,8,Alemannia Aachen,Germany,100000.0
@@ -31963,7 +31915,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 38,Fortuna Düsseldorf,Germany,left,CB,21,Chemnitzer FC,Germany,150000.0
 38,Fortuna Düsseldorf,Germany,left,CF,440,Hallescher FC,Germany,150000.0
 38,Fortuna Düsseldorf,Germany,left,LB,25,FC Energie Cottbus,Germany,0.0
-38,Fortuna Düsseldorf,Germany,left,RB,515,Without Club,Other,0.0
 38,Fortuna Düsseldorf,Germany,left,LW,8023,Al-Ittihad Jeddah,Other,0.0
 27,Bayern Munich,Germany,in,AM,16,Borussia Dortmund,Germany,49000000.0
 27,Bayern Munich,Germany,in,CM,131,FC Barcelona,Spain,50000000.0
@@ -31997,7 +31948,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 16,Borussia Dortmund,Germany,left,CM,24,Eintracht Frankfurt,Germany,475000.0
 16,Borussia Dortmund,Germany,left,CB,17,Borussia Dortmund II,Germany,200000.0
 16,Borussia Dortmund,Germany,left,RB,515,Without Club,Other,0.0
-15,Bayer 04 Leverkusen,Germany,in,LW,41,Hamburger SV,Germany,97500000.0
 15,Bayer 04 Leverkusen,Germany,in,DM,27,Bayern Munich,Germany,31000000.0
 15,Bayer 04 Leverkusen,Germany,in,RB,46,FC Internazionale,Italy,3800000.0
 15,Bayer 04 Leverkusen,Germany,in,LW,38,Fortuna Düsseldorf,Germany,1850000.0
@@ -32108,7 +32058,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 41,Hamburger SV,Germany,in,CB,1071,Wigan Athletic,England,0.0
 41,Hamburger SV,Germany,in,CM,38,Fortuna Düsseldorf,Germany,350000.0
 41,Hamburger SV,Germany,in,CM,48,Karlsruher SC,Germany,30000000.0
-41,Hamburger SV,Germany,left,LW,15,Bayer 04 Leverkusen,Germany,97500000.0
 41,Hamburger SV,Germany,left,DM,33,FC Schalke 04,Germany,500000.0
 41,Hamburger SV,Germany,left,CM,206,Bröndby IF,Other,6350000.0
 41,Hamburger SV,Germany,left,RB,276,Hellas Verona,Italy,600000.0
@@ -32190,7 +32139,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 82,VfL Wolfsburg,Germany,in,GK,65,SpVgg Greuther Fürth,Germany,525000.0
 82,VfL Wolfsburg,Germany,in,CF,23826,RB Leipzig,Germany,350000.0
 82,VfL Wolfsburg,Germany,in,RW,35,FC St. Pauli,Germany,650000.0
-82,VfL Wolfsburg,Germany,in,CM,167,FC Augsburg,Germany,1700000.0
 82,VfL Wolfsburg,Germany,in,CF,4,1.FC Nuremberg,Germany,1000000.0
 82,VfL Wolfsburg,Germany,in,SS,80,VfL Bochum,Germany,0.0
 82,VfL Wolfsburg,Germany,in,CF,750,FC Sochaux-Montbéliard,France,300000.0
@@ -32257,7 +32205,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 79,VfB Stuttgart,Germany,left,LB,8344,Albirex Niigata,Other,1300000.0
 39,1.FSV Mainz 05,Germany,in,CF,79,VfB Stuttgart,Germany,2300000.0
 39,1.FSV Mainz 05,Germany,in,CF,38,Fortuna Düsseldorf,Germany,1500000.0
-39,1.FSV Mainz 05,Germany,in,LB,26,FC Basel 1893,Other,1500000.0
 39,1.FSV Mainz 05,Germany,in,DM,65,SpVgg Greuther Fürth,Germany,2500000.0
 39,1.FSV Mainz 05,Germany,in,CF,82,VfL Wolfsburg,Germany,1750000.0
 39,1.FSV Mainz 05,Germany,in,DM,16,Borussia Dortmund,Germany,600000.0
@@ -32295,7 +32242,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 86,SV Werder Bremen,Germany,left,GK,Retired,Retired,Other,0.0
 86,SV Werder Bremen,Germany,left,CF,27,Bayern Munich,Germany,3000000.0
 86,SV Werder Bremen,Germany,left,AM,631,Chelsea FC,England,100000000.0
-167,FC Augsburg,Germany,in,CB,19684,Jeju United,Other,3100000.0
 167,FC Augsburg,Germany,in,CF,26,FC Basel 1893,Other,1900000.0
 167,FC Augsburg,Germany,in,AM,79,VfB Stuttgart,Germany,3800000.0
 167,FC Augsburg,Germany,in,CF,107,Kickers Offenbach,Germany,350000.0
@@ -32314,8 +32260,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 167,FC Augsburg,Germany,left,RM,941,FC Viktoria Plzen,Other,100000.0
 167,FC Augsburg,Germany,left,AM,515,Without Club,Other,0.0
 167,FC Augsburg,Germany,left,GK,Retired,Retired,Other,0.0
-167,FC Augsburg,Germany,left,CM,82,VfL Wolfsburg,Germany,1700000.0
-167,FC Augsburg,Germany,left,CF,289,Sunderland AFC,England,800000.0
 167,FC Augsburg,Germany,left,AM,533,TSG 1899 Hoffenheim,Germany,900000.0
 533,TSG 1899 Hoffenheim,Germany,in,CF,40,FC Girondins Bordeaux,France,4800000.0
 533,TSG 1899 Hoffenheim,Germany,in,CF,195,Rosenborg BK,Other,3700000.0
@@ -32399,7 +32343,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 16,Borussia Dortmund,Germany,left,CB,141,Galatasaray A.S.,Other,7500000.0
 15,Bayer 04 Leverkusen,Germany,in,CM,1049,Valencia CF,Spain,2500000.0
 15,Bayer 04 Leverkusen,Germany,in,AM,5343,VfL Wolfsburg U19,Germany,20500000.0
-15,Bayer 04 Leverkusen,Germany,in,SS,19684,Jeju United,Other,300000.0
 15,Bayer 04 Leverkusen,Germany,left,CM,167,FC Augsburg,Germany,6150000.0
 33,FC Schalke 04,Germany,in,CB,27,Bayern Munich,Germany,500000.0
 33,FC Schalke 04,Germany,left,DM,114,Besiktas JK,Other,200000.0
@@ -32444,7 +32387,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 82,VfL Wolfsburg,Germany,in,RB,978,Club de Regatas Vasco da Gama,Other,3000000.0
 82,VfL Wolfsburg,Germany,in,AM,618,AS Saint-Étienne,France,200000.0
 82,VfL Wolfsburg,Germany,in,DM,3508,SV Zulte Waregem,Other,0.0
-82,VfL Wolfsburg,Germany,left,CM,39,1.FSV Mainz 05,Germany,6700000.0
 82,VfL Wolfsburg,Germany,left,CM,13,Atlético de Madrid,Spain,2800000.0
 82,VfL Wolfsburg,Germany,left,CF,2,1.FC Kaiserslautern,Germany,0.0
 82,VfL Wolfsburg,Germany,left,AM,897,Deportivo de La Coruña,Spain,200000.0
@@ -32456,7 +32398,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 79,VfB Stuttgart,Germany,left,LB,130,Parma FC,Italy,200000.0
 79,VfB Stuttgart,Germany,left,DM,931,Fulham FC,England,0.0
 79,VfB Stuttgart,Germany,left,DM,102,VfB Stuttgart II,Germany,0.0
-39,1.FSV Mainz 05,Germany,in,CM,82,VfL Wolfsburg,Germany,6700000.0
 39,1.FSV Mainz 05,Germany,in,RW,2531,Botev Plovdiv,Other,4000000.0
 39,1.FSV Mainz 05,Germany,in,GK,932,Lokomotiv Moscow,Other,0.0
 39,1.FSV Mainz 05,Germany,left,RW,2,1.FC Kaiserslautern,Germany,0.0
@@ -32468,7 +32409,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 86,SV Werder Bremen,Germany,left,CB,279,Ferencvárosi TC,Other,1000000.0
 167,FC Augsburg,Germany,in,RW,4,1.FC Nuremberg,Germany,750000.0
 167,FC Augsburg,Germany,in,CM,15,Bayer 04 Leverkusen,Germany,6150000.0
-167,FC Augsburg,Germany,in,CF,289,Sunderland AFC,England,800000.0
 167,FC Augsburg,Germany,in,LM,5379,FC Augsburg II,Germany,1800000.0
 167,FC Augsburg,Germany,left,CB,813,Columbus Crew,Other,0.0
 167,FC Augsburg,Germany,left,CF,25,FC Energie Cottbus,Germany,150000.0
@@ -32513,7 +32453,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 16,Borussia Dortmund,Germany,in,CF,44,Hertha BSC,Germany,10350000.0
 16,Borussia Dortmund,Germany,in,AM,985,Manchester United,England,9200000.0
 16,Borussia Dortmund,Germany,in,DM,418,Real Madrid,Spain,7000000.0
-16,Borussia Dortmund,Germany,in,CF,167,FC Augsburg,Germany,800000.0
 16,Borussia Dortmund,Germany,in,GK,17,Borussia Dortmund II,Germany,250000.0
 16,Borussia Dortmund,Germany,left,CF,44,Hertha BSC,Germany,2500000.0
 16,Borussia Dortmund,Germany,left,RW,39,1.FSV Mainz 05,Germany,16200000.0
@@ -32549,7 +32488,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 15,Bayer 04 Leverkusen,Germany,in,CB,12,AS Roma,Italy,4000000.0
 15,Bayer 04 Leverkusen,Germany,in,AM,37825,Shakhtar 3 Donetsk,Other,2755000.0
 15,Bayer 04 Leverkusen,Germany,in,GK,39,1.FSV Mainz 05,Germany,0.0
-15,Bayer 04 Leverkusen,Germany,in,SS,19684,Jeju United,Other,225000.0
 15,Bayer 04 Leverkusen,Germany,in,CF,1008,HJK Helsinki,Other,2300000.0
 15,Bayer 04 Leverkusen,Germany,in,CB,211,Bayer 04 Leverkusen II,Germany,300000.0
 15,Bayer 04 Leverkusen,Germany,in,CM,4713,Bayer 04 Leverkusen U19,Germany,0.0
@@ -32569,7 +32507,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 15,Bayer 04 Leverkusen,Germany,left,DM,48,Karlsruher SC,Germany,1500000.0
 15,Bayer 04 Leverkusen,Germany,left,CF,610,Ajax Amsterdam,Other,20000000.0
 15,Bayer 04 Leverkusen,Germany,left,RB,92,SC Fortuna Köln,Germany,0.0
-15,Bayer 04 Leverkusen,Germany,left,SS,23,Eintracht Braunschweig,Germany,225000.0
 15,Bayer 04 Leverkusen,Germany,left,CF,38,Fortuna Düsseldorf,Germany,2300000.0
 15,Bayer 04 Leverkusen,Germany,left,CB,65,SpVgg Greuther Fürth,Germany,300000.0
 15,Bayer 04 Leverkusen,Germany,left,CB,80,VfL Bochum,Germany,300000.0
@@ -32578,7 +32515,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 15,Bayer 04 Leverkusen,Germany,left,GK,Retired,Retired,Other,0.0
 15,Bayer 04 Leverkusen,Germany,left,CF,1008,HJK Helsinki,Other,2300000.0
 15,Bayer 04 Leverkusen,Germany,left,CM,1049,Valencia CF,Spain,1500000.0
-15,Bayer 04 Leverkusen,Germany,left,SS,19684,Jeju United,Other,225000.0
 15,Bayer 04 Leverkusen,Germany,left,CF,533,TSG 1899 Hoffenheim,Germany,350000.0
 82,VfL Wolfsburg,Germany,in,DM,13,Atlético de Madrid,Spain,11800000.0
 82,VfL Wolfsburg,Germany,in,RB,24,Eintracht Frankfurt,Germany,2800000.0
@@ -32665,7 +32601,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 167,FC Augsburg,Germany,left,GK,89,1.FC Union Berlin,Germany,350000.0
 167,FC Augsburg,Germany,left,CF,1008,HJK Helsinki,Other,0.0
 167,FC Augsburg,Germany,left,SS,89,1.FC Union Berlin,Germany,0.0
-167,FC Augsburg,Germany,left,CF,16,Borussia Dortmund,Germany,800000.0
 167,FC Augsburg,Germany,left,CF,129,SG Dynamo Dresden,Germany,150000.0
 167,FC Augsburg,Germany,left,DM,Retired,Retired,Other,0.0
 167,FC Augsburg,Germany,left,AM,79,VfB Stuttgart,Germany,3500000.0
@@ -32674,7 +32609,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 533,TSG 1899 Hoffenheim,Germany,in,GK,60,SC Freiburg,Germany,10500000.0
 533,TSG 1899 Hoffenheim,Germany,in,LM,2410,CSKA Moscow,Other,7400000.0
 533,TSG 1899 Hoffenheim,Germany,in,DM,24,Eintracht Frankfurt,Germany,1900000.0
-533,TSG 1899 Hoffenheim,Germany,in,LB,8344,Albirex Niigata,Other,1500000.0
 533,TSG 1899 Hoffenheim,Germany,in,CM,66,SpVgg Unterhaching,Germany,5500000.0
 533,TSG 1899 Hoffenheim,Germany,in,CB,23,Eintracht Braunschweig,Germany,1900000.0
 533,TSG 1899 Hoffenheim,Germany,in,AM,8925,TSG 1899 Hoffenheim U19,Germany,15000000.0
@@ -32941,7 +32875,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 27,Bayern Munich,Germany,left,RW,46,Inter Milan,Italy,10000000.0
 16,Borussia Dortmund,Germany,in,CM,409,Red Bull Salzburg,Other,22000000.0
 16,Borussia Dortmund,Germany,in,AM,17,Borussia Dortmund II,Germany,2000000.0
-16,Borussia Dortmund,Germany,left,CF,167,FC Augsburg,Germany,2800000.0
 16,Borussia Dortmund,Germany,left,LB,72,TSV 1860 Munich,Germany,100000.0
 33,FC Schalke 04,Germany,in,CB,281,Manchester City,England,5000000.0
 33,FC Schalke 04,Germany,left,RW,39,1.FSV Mainz 05,Germany,900000.0
@@ -32969,7 +32902,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 39,1.FSV Mainz 05,Germany,left,DM,35,FC St. Pauli,Germany,0.0
 39,1.FSV Mainz 05,Germany,left,AM,294,SL Benfica,Other,9000000.0
 39,1.FSV Mainz 05,Germany,left,CB,15,Bayer 04 Leverkusen,Germany,0.0
-167,FC Augsburg,Germany,in,CF,16,Borussia Dortmund,Germany,2800000.0
 167,FC Augsburg,Germany,in,CB,44,Hertha BSC,Germany,0.0
 167,FC Augsburg,Germany,in,CM,27,Bayern Munich,Germany,40000000.0
 167,FC Augsburg,Germany,in,RB,4780,FC Augsburg U19,Germany,2000000.0
@@ -33104,12 +33036,10 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 15,Bayer 04 Leverkusen,Germany,in,GK,440,Hallescher FC,Germany,250000.0
 15,Bayer 04 Leverkusen,Germany,in,LB,931,Fulham FC,England,1200000.0
 15,Bayer 04 Leverkusen,Germany,in,CM,81,VfL Osnabrück,Germany,0.0
-15,Bayer 04 Leverkusen,Germany,in,SS,23,Eintracht Braunschweig,Germany,225000.0
 15,Bayer 04 Leverkusen,Germany,in,RB,92,SC Fortuna Köln,Germany,0.0
 15,Bayer 04 Leverkusen,Germany,in,CF,610,Ajax Amsterdam,Other,20000000.0
 15,Bayer 04 Leverkusen,Germany,in,CM,167,FC Augsburg,Germany,6000000.0
 15,Bayer 04 Leverkusen,Germany,in,DM,18,Borussia Mönchengladbach,Germany,5000000.0
-15,Bayer 04 Leverkusen,Germany,left,LW,148,Tottenham Hotspur,England,115000000.0
 15,Bayer 04 Leverkusen,Germany,left,CM,16,Borussia Dortmund,Germany,11900000.0
 15,Bayer 04 Leverkusen,Germany,left,CF,18,Borussia Mönchengladbach,Germany,11500000.0
 15,Bayer 04 Leverkusen,Germany,left,CB,512,Stoke City,England,3800000.0
@@ -33125,7 +33055,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 15,Bayer 04 Leverkusen,Germany,left,GK,91,Preußen Münster,Germany,250000.0
 15,Bayer 04 Leverkusen,Germany,left,DM,Retired,Retired,Other,0.0
 15,Bayer 04 Leverkusen,Germany,left,CB,33,FC Schalke 04,Germany,900000.0
-167,FC Augsburg,Germany,in,CM,39,1.FSV Mainz 05,Germany,6700000.0
 167,FC Augsburg,Germany,in,LB,48,Karlsruher SC,Germany,15800000.0
 167,FC Augsburg,Germany,in,LB,15,Bayer 04 Leverkusen,Germany,3700000.0
 167,FC Augsburg,Germany,in,CM,15,Bayer 04 Leverkusen,Germany,7400000.0
@@ -33170,7 +33099,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 33,FC Schalke 04,Germany,left,CB,281,Manchester City,England,5000000.0
 16,Borussia Dortmund,Germany,in,CM,15,Bayer 04 Leverkusen,Germany,11900000.0
 16,Borussia Dortmund,Germany,in,GK,60,SC Freiburg,Germany,6500000.0
-16,Borussia Dortmund,Germany,in,LB,39,1.FSV Mainz 05,Germany,3350000.0
 16,Borussia Dortmund,Germany,in,DM,72,TSV 1860 Munich,Germany,22500000.0
 16,Borussia Dortmund,Germany,in,RW,985,Manchester United,England,12000000.0
 16,Borussia Dortmund,Germany,in,CB,1464,Borussia Dortmund U19,Germany,2000000.0
@@ -33199,7 +33127,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 533,TSG 1899 Hoffenheim,Germany,in,GK,170,Rapid Vienna,Other,1200000.0
 533,TSG 1899 Hoffenheim,Germany,in,CF,4,1.FC Nuremberg,Germany,4000000.0
 533,TSG 1899 Hoffenheim,Germany,in,CF,121,Dinamo Moscow,Other,0.0
-533,TSG 1899 Hoffenheim,Germany,in,CF,18915,Kyung Hee University,Other,325000.0
 533,TSG 1899 Hoffenheim,Germany,in,LB,10131,SV Grödig,Other,200000.0
 533,TSG 1899 Hoffenheim,Germany,in,CM,8925,TSG 1899 Hoffenheim U19,Germany,700000.0
 533,TSG 1899 Hoffenheim,Germany,in,LW,8925,TSG 1899 Hoffenheim U19,Germany,650000.0
@@ -33238,7 +33165,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 533,TSG 1899 Hoffenheim,Germany,left,RW,11622,Universidad San Martín de Porres,Other,275000.0
 533,TSG 1899 Hoffenheim,Germany,left,GK,4000,Lechia Gdansk,Other,700000.0
 533,TSG 1899 Hoffenheim,Germany,left,CB,38,Fortuna Düsseldorf,Germany,5000000.0
-533,TSG 1899 Hoffenheim,Germany,left,CF,293,FSV Frankfurt,Germany,325000.0
 533,TSG 1899 Hoffenheim,Germany,left,LW,60,SC Freiburg,Germany,650000.0
 24,Eintracht Frankfurt,Germany,in,GK,206,Bröndby IF,Other,8500000.0
 24,Eintracht Frankfurt,Germany,in,CF,317,Twente Enschede FC,Other,2800000.0
@@ -33311,8 +33237,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 39,1.FSV Mainz 05,Germany,in,RW,3899,Anorthosis Famagusta,Other,0.0
 39,1.FSV Mainz 05,Germany,left,CF,1003,Leicester City,England,11800000.0
 39,1.FSV Mainz 05,Germany,left,DM,33,FC Schalke 04,Germany,12100000.0
-39,1.FSV Mainz 05,Germany,left,CM,167,FC Augsburg,Germany,6700000.0
-39,1.FSV Mainz 05,Germany,left,LB,16,Borussia Dortmund,Germany,3350000.0
 39,1.FSV Mainz 05,Germany,left,CF,1039,Queens Park Rangers,England,3300000.0
 39,1.FSV Mainz 05,Germany,left,GK,683,Olympiacos Piraeus,Other,2700000.0
 39,1.FSV Mainz 05,Germany,left,DM,38,Fortuna Düsseldorf,Germany,300000.0
@@ -33505,7 +33429,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 18,Borussia Mönchengladbach,Germany,left,CF,41,Hamburger SV,Germany,2700000.0
 15,Bayer 04 Leverkusen,Germany,in,LW,79,VfB Stuttgart,Germany,350000.0
 15,Bayer 04 Leverkusen,Germany,left,RB,39,1.FSV Mainz 05,Germany,1800000.0
-15,Bayer 04 Leverkusen,Germany,left,SS,10,Arminia Bielefeld,Germany,225000.0
 167,FC Augsburg,Germany,in,CB,1090,AZ Alkmaar,Other,10000000.0
 167,FC Augsburg,Germany,in,CF,26,FC Basel 1893,Other,4200000.0
 167,FC Augsburg,Germany,in,CF,681,Real Sociedad,Spain,1200000.0
@@ -33645,7 +33568,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 15,Bayer 04 Leverkusen,Germany,in,AM,4713,Bayer 04 Leverkusen U19,Germany,0.0
 15,Bayer 04 Leverkusen,Germany,in,LM,4713,Bayer 04 Leverkusen U19,Germany,700000.0
 15,Bayer 04 Leverkusen,Germany,in,CF,38,Fortuna Düsseldorf,Germany,2300000.0
-15,Bayer 04 Leverkusen,Germany,in,SS,10,Arminia Bielefeld,Germany,225000.0
 15,Bayer 04 Leverkusen,Germany,in,CF,127,SC Paderborn 07,Germany,0.0
 15,Bayer 04 Leverkusen,Germany,in,CM,851,1.FSV Mainz 05 II,Germany,0.0
 15,Bayer 04 Leverkusen,Germany,in,GK,91,Preußen Münster,Germany,250000.0
@@ -33661,7 +33583,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 15,Bayer 04 Leverkusen,Germany,left,CM,97,SG Wattenscheid 09,Germany,0.0
 15,Bayer 04 Leverkusen,Germany,left,CF,92,SC Fortuna Köln,Germany,0.0
 15,Bayer 04 Leverkusen,Germany,left,CB,10,Arminia Bielefeld,Germany,300000.0
-15,Bayer 04 Leverkusen,Germany,left,SS,279,Ferencvárosi TC,Other,225000.0
 15,Bayer 04 Leverkusen,Germany,left,LM,1622,FC Viktoria Köln,Germany,700000.0
 15,Bayer 04 Leverkusen,Germany,left,RB,2036,1.FC Heidenheim 1846,Germany,250000.0
 15,Bayer 04 Leverkusen,Germany,left,CM,2,1.FC Kaiserslautern,Germany,275000.0
@@ -33853,7 +33774,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 167,FC Augsburg,Germany,in,CF,72,TSV 1860 Munich,Germany,225000.0
 167,FC Augsburg,Germany,in,CF,252,Genoa CFC,Italy,1100000.0
 167,FC Augsburg,Germany,in,CF,38,Fortuna Düsseldorf,Germany,425000.0
-167,FC Augsburg,Germany,left,CB,22219,Jiangsu Suning,Other,7100000.0
 167,FC Augsburg,Germany,left,CB,31,Liverpool FC,England,5600000.0
 167,FC Augsburg,Germany,left,RW,44,Hertha BSC,Germany,3000000.0
 167,FC Augsburg,Germany,left,LW,79,VfB Stuttgart,Germany,1000000.0
@@ -33955,7 +33875,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 533,TSG 1899 Hoffenheim,Germany,in,CF,2,1.FC Kaiserslautern,Germany,3500000.0
 533,TSG 1899 Hoffenheim,Germany,in,GK,81,VfL Osnabrück,Germany,1000000.0
 533,TSG 1899 Hoffenheim,Germany,in,LB,14,Austria Vienna,Other,200000.0
-533,TSG 1899 Hoffenheim,Germany,in,CF,293,FSV Frankfurt,Germany,325000.0
 533,TSG 1899 Hoffenheim,Germany,in,GK,4000,Lechia Gdansk,Other,700000.0
 533,TSG 1899 Hoffenheim,Germany,in,CM,80,VfL Bochum,Germany,5000000.0
 533,TSG 1899 Hoffenheim,Germany,left,CF,15,Bayer 04 Leverkusen,Germany,50000000.0
@@ -33971,7 +33890,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 533,TSG 1899 Hoffenheim,Germany,left,GK,129,SG Dynamo Dresden,Germany,1000000.0
 533,TSG 1899 Hoffenheim,Germany,left,DM,254,SV Sandhausen,Germany,1200000.0
 533,TSG 1899 Hoffenheim,Germany,left,CM,80,VfL Bochum,Germany,1000000.0
-533,TSG 1899 Hoffenheim,Germany,left,CF,433,FC Koper,Other,325000.0
 533,TSG 1899 Hoffenheim,Germany,left,GK,983,TSG 1899 Hoffenheim II,Germany,700000.0
 533,TSG 1899 Hoffenheim,Germany,left,CF,Retired,Retired,Other,0.0
 533,TSG 1899 Hoffenheim,Germany,left,LW,Retired,Retired,Other,0.0
@@ -34130,7 +34048,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 533,TSG 1899 Hoffenheim,Germany,in,AM,609,Cruzeiro Esporte Clube,Other,800000.0
 533,TSG 1899 Hoffenheim,Germany,in,DM,254,SV Sandhausen,Germany,1200000.0
 533,TSG 1899 Hoffenheim,Germany,left,SS,7055,Tigres UANL,Other,9000000.0
-533,TSG 1899 Hoffenheim,Germany,left,LB,6502,Jeonbuk Hyundai Motors,Other,1900000.0
 533,TSG 1899 Hoffenheim,Germany,left,AM,1059,Hammarby IF,Other,700000.0
 533,TSG 1899 Hoffenheim,Germany,left,AM,1755,Guarani Futebol Clube (SP),Other,800000.0
 533,TSG 1899 Hoffenheim,Germany,left,RW,11622,Universidad San Martín de Porres,Other,275000.0
@@ -34225,7 +34142,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 16,Borussia Dortmund,Germany,left,GK,72,TSV 1860 Munich,Germany,250000.0
 16,Borussia Dortmund,Germany,left,DM,79,VfB Stuttgart,Germany,800000.0
 16,Borussia Dortmund,Germany,left,RB,533,TSG 1899 Hoffenheim,Germany,2500000.0
-16,Borussia Dortmund,Germany,left,LB,17,Borussia Dortmund II,Germany,350000.0
 533,TSG 1899 Hoffenheim,Germany,in,CB,379,West Ham United,England,9500000.0
 533,TSG 1899 Hoffenheim,Germany,in,LB,18,Borussia Mönchengladbach,Germany,9000000.0
 533,TSG 1899 Hoffenheim,Germany,in,CB,1304,Heracles Almelo,Other,4700000.0
@@ -34237,7 +34153,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 533,TSG 1899 Hoffenheim,Germany,in,LW,8925,TSG 1899 Hoffenheim U19,Germany,3000000.0
 533,TSG 1899 Hoffenheim,Germany,in,DM,48,Karlsruher SC,Germany,1200000.0
 533,TSG 1899 Hoffenheim,Germany,in,AM,122,SK Sturm Graz,Other,500000.0
-533,TSG 1899 Hoffenheim,Germany,in,CF,433,FC Koper,Other,325000.0
 533,TSG 1899 Hoffenheim,Germany,in,CF,105,SV Darmstadt 98,Germany,3500000.0
 533,TSG 1899 Hoffenheim,Germany,in,CM,80,VfL Bochum,Germany,1000000.0
 533,TSG 1899 Hoffenheim,Germany,in,CM,65,SpVgg Greuther Fürth,Germany,700000.0
@@ -34254,7 +34169,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 533,TSG 1899 Hoffenheim,Germany,left,LB,80,VfL Bochum,Germany,1500000.0
 533,TSG 1899 Hoffenheim,Germany,left,CM,2440,D.C. United,Other,1000000.0
 533,TSG 1899 Hoffenheim,Germany,left,LW,109,SSV Jahn Regensburg,Germany,650000.0
-533,TSG 1899 Hoffenheim,Germany,left,CF,448,FK Vojvodina Novi Sad,Other,325000.0
 533,TSG 1899 Hoffenheim,Germany,left,DM,109,SSV Jahn Regensburg,Germany,1200000.0
 3,1. FC Köln,Germany,in,CF,39,1.FSV Mainz 05,Germany,34000000.0
 3,1. FC Köln,Germany,in,LB,82,VfL Wolfsburg,Germany,10000000.0
@@ -34423,7 +34337,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 15,Bayer 04 Leverkusen,Germany,in,CM,2,1.FC Kaiserslautern,Germany,275000.0
 15,Bayer 04 Leverkusen,Germany,in,CF,92,SC Fortuna Köln,Germany,0.0
 15,Bayer 04 Leverkusen,Germany,in,AM,109,SSV Jahn Regensburg,Germany,0.0
-15,Bayer 04 Leverkusen,Germany,in,SS,279,Ferencvárosi TC,Other,225000.0
 15,Bayer 04 Leverkusen,Germany,in,CB,39,1.FSV Mainz 05,Germany,3500000.0
 15,Bayer 04 Leverkusen,Germany,in,RB,2036,1.FC Heidenheim 1846,Germany,250000.0
 15,Bayer 04 Leverkusen,Germany,in,CB,41,Hamburger SV,Germany,900000.0
@@ -34443,7 +34356,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 15,Bayer 04 Leverkusen,Germany,left,AM,109,SSV Jahn Regensburg,Germany,0.0
 15,Bayer 04 Leverkusen,Germany,left,RB,23,Eintracht Braunschweig,Germany,250000.0
 15,Bayer 04 Leverkusen,Germany,left,CF,1622,FC Viktoria Köln,Germany,0.0
-15,Bayer 04 Leverkusen,Germany,left,SS,19684,Jeju United,Other,225000.0
 15,Bayer 04 Leverkusen,Germany,left,CB,2,1.FC Kaiserslautern,Germany,800000.0
 15,Bayer 04 Leverkusen,Germany,left,RB,515,Without Club,Other,0.0
 167,FC Augsburg,Germany,in,SS,41,Hamburger SV,Germany,7500000.0
@@ -34614,9 +34526,7 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 533,TSG 1899 Hoffenheim,Germany,in,CF,8925,TSG 1899 Hoffenheim U19,Germany,700000.0
 533,TSG 1899 Hoffenheim,Germany,in,AM,2,1.FC Kaiserslautern,Germany,500000.0
 533,TSG 1899 Hoffenheim,Germany,in,CF,4795,FC Ingolstadt 04,Germany,3500000.0
-533,TSG 1899 Hoffenheim,Germany,in,CF,448,FK Vojvodina Novi Sad,Other,325000.0
 533,TSG 1899 Hoffenheim,Germany,left,CF,27,Bayern Munich,Germany,13000000.0
-533,TSG 1899 Hoffenheim,Germany,left,CF,6499,Daejeon Citizen,Other,325000.0
 533,TSG 1899 Hoffenheim,Germany,left,LW,80,VfL Bochum,Germany,500000.0
 533,TSG 1899 Hoffenheim,Germany,left,AM,105,SV Darmstadt 98,Germany,500000.0
 533,TSG 1899 Hoffenheim,Germany,left,CF,144,HNK Rijeka,Other,3500000.0
@@ -34663,7 +34573,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 167,FC Augsburg,Germany,left,RB,23,Eintracht Braunschweig,Germany,500000.0
 167,FC Augsburg,Germany,left,CB,2,1.FC Kaiserslautern,Germany,0.0
 167,FC Augsburg,Germany,left,CM,1123,Norwich City,England,800000.0
-167,FC Augsburg,Germany,left,CF,105,SV Darmstadt 98,Germany,800000.0
 41,Hamburger SV,Germany,in,LW,389,Hamburger SV II,Germany,300000.0
 41,Hamburger SV,Germany,in,AM,94,FC Erzgebirge Aue,Germany,350000.0
 41,Hamburger SV,Germany,in,CF,19789,Yeni Malatyaspor,Other,25000.0
@@ -34976,7 +34885,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 167,FC Augsburg,Germany,in,DM,5379,FC Augsburg II,Germany,75000.0
 167,FC Augsburg,Germany,in,RB,4780,FC Augsburg U19,Germany,400000.0
 167,FC Augsburg,Germany,in,RB,29176,FC Augsburg U17,Germany,250000.0
-167,FC Augsburg,Germany,in,CF,105,SV Darmstadt 98,Germany,800000.0
 167,FC Augsburg,Germany,in,CM,1123,Norwich City,England,800000.0
 167,FC Augsburg,Germany,in,LB,512,Stoke City,England,1200000.0
 167,FC Augsburg,Germany,in,CB,2,1.FC Kaiserslautern,Germany,0.0
@@ -35528,7 +35436,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 39,1.FSV Mainz 05,Germany,in,LB,28,FC Bayern Munich II,Germany,1800000.0
 39,1.FSV Mainz 05,Germany,in,CF,31,Liverpool FC,England,8500000.0
 39,1.FSV Mainz 05,Germany,in,CF,533,TSG 1899 Hoffenheim,Germany,800000.0
-39,1.FSV Mainz 05,Germany,in,CF,167,FC Augsburg,Germany,800000.0
 39,1.FSV Mainz 05,Germany,in,DM,5369,1.FSV Mainz 05 U19,Germany,1000000.0
 39,1.FSV Mainz 05,Germany,in,CM,5369,1.FSV Mainz 05 U19,Germany,400000.0
 39,1.FSV Mainz 05,Germany,in,CM,385,Fortuna Sittard,Other,800000.0
@@ -35550,8 +35457,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 60,SC Freiburg,Germany,in,LW,533,TSG 1899 Hoffenheim,Germany,19000000.0
 60,SC Freiburg,Germany,in,RB,167,FC Augsburg,Germany,7000000.0
 60,SC Freiburg,Germany,in,LB,82,VfL Wolfsburg,Germany,3800000.0
-60,SC Freiburg,Germany,in,RW,28,FC Bayern Munich II,Germany,6500000.0
-60,SC Freiburg,Germany,in,RW,2969,Dijon FCO,France,4000000.0
 60,SC Freiburg,Germany,in,CB,245,SC Freiburg II,Germany,13000000.0
 60,SC Freiburg,Germany,in,GK,245,SC Freiburg II,Germany,250000.0
 60,SC Freiburg,Germany,in,CM,245,SC Freiburg II,Germany,1200000.0
@@ -35617,9 +35522,7 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 167,FC Augsburg,Germany,left,RB,60,SC Freiburg,Germany,7000000.0
 167,FC Augsburg,Germany,left,CB,180,Southampton FC,England,9500000.0
 167,FC Augsburg,Germany,left,CB,89,1.FC Union Berlin,Germany,12000000.0
-167,FC Augsburg,Germany,left,CF,39,1.FSV Mainz 05,Germany,800000.0
 167,FC Augsburg,Germany,left,LB,533,TSG 1899 Hoffenheim,Germany,1200000.0
-167,FC Augsburg,Germany,left,CM,6297,Al-Gharafa SC,Other,1700000.0
 167,FC Augsburg,Germany,left,CF,596,Gamba Osaka,Other,1200000.0
 167,FC Augsburg,Germany,left,SS,113,FC Carl Zeiss Jena,Germany,250000.0
 167,FC Augsburg,Germany,left,DM,72,TSV 1860 Munich,Germany,300000.0
@@ -35804,7 +35707,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 60,SC Freiburg,Germany,in,DM,245,SC Freiburg II,Germany,4000000.0
 60,SC Freiburg,Germany,left,AM,129,SG Dynamo Dresden,Germany,625000.0
 60,SC Freiburg,Germany,left,CM,48,Karlsruher SC,Germany,575000.0
-60,SC Freiburg,Germany,left,RW,28,FC Bayern Munich II,Germany,4500000.0
 33,FC Schalke 04,Germany,in,CB,131,FC Barcelona,Spain,15500000.0
 33,FC Schalke 04,Germany,in,SS,167,FC Augsburg,Germany,2500000.0
 33,FC Schalke 04,Germany,in,GK,1123,Norwich City,England,600000.0
@@ -35887,7 +35789,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 16,Borussia Dortmund,Germany,left,DM,506,Juventus FC,Italy,26000000.0
 16,Borussia Dortmund,Germany,left,RB,418,Real Madrid,Spain,70000000.0
 23826,RB Leipzig,Germany,in,CF,873,Crystal Palace,England,36000000.0
-23826,RB Leipzig,Germany,in,CF,409,Red Bull Salzburg,Other,20000000.0
 23826,RB Leipzig,Germany,in,GK,472,UD Las Palmas,Spain,5000000.0
 23826,RB Leipzig,Germany,in,LW,12,AS Roma,Italy,15000000.0
 23826,RB Leipzig,Germany,in,AM,2827,Hertha BSC U19,Germany,3500000.0
@@ -35986,7 +35887,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 60,SC Freiburg,Germany,in,AM,232,Spartak Moscow,Other,5450000.0
 60,SC Freiburg,Germany,in,GK,39,1.FSV Mainz 05,Germany,8200000.0
 60,SC Freiburg,Germany,in,GK,48,Karlsruher SC,Germany,500000.0
-60,SC Freiburg,Germany,in,RW,28,FC Bayern Munich II,Germany,4500000.0
 60,SC Freiburg,Germany,in,CM,48,Karlsruher SC,Germany,500000.0
 60,SC Freiburg,Germany,in,AM,129,SG Dynamo Dresden,Germany,550000.0
 60,SC Freiburg,Germany,in,CB,89,1.FC Union Berlin,Germany,6500000.0
@@ -36382,7 +36282,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 39,1.FSV Mainz 05,Germany,left,CF,873,Crystal Palace,England,11500000.0
 39,1.FSV Mainz 05,Germany,left,CF,317,Twente Enschede FC,Other,700000.0
 39,1.FSV Mainz 05,Germany,left,CB,475,Sint-Truidense VV,Other,800000.0
-39,1.FSV Mainz 05,Germany,left,CF,23,Eintracht Braunschweig,Germany,800000.0
 39,1.FSV Mainz 05,Germany,left,LB,940,Celta de Vigo,Spain,4500000.0
 3,1. FC Köln,Germany,in,CF,2282,Club Brugge KV,Other,6200000.0
 3,1. FC Köln,Germany,in,CM,873,Crystal Palace,England,1200000.0
@@ -36448,7 +36347,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 23826,RB Leipzig,Germany,left,AM,410,Udinese Calcio,Italy,6000000.0
 23826,RB Leipzig,Germany,left,CF,681,Real Sociedad,Spain,18000000.0
 23826,RB Leipzig,Germany,left,LW,1003,Leicester City,England,11000000.0
-23826,RB Leipzig,Germany,left,CF,543,Wolverhampton Wanderers,England,11000000.0
 23826,RB Leipzig,Germany,left,AM,623,New York Red Bulls,Other,3500000.0
 23826,RB Leipzig,Germany,left,RW,127,SC Paderborn 07,Germany,350000.0
 23826,RB Leipzig,Germany,left,LW,12,AS Roma,Italy,14000000.0
@@ -36479,7 +36377,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 82,VfL Wolfsburg,Germany,in,SS,121,Dynamo Moscow,Other,14500000.0
 82,VfL Wolfsburg,Germany,in,CB,724,FC Volendam,Other,6500000.0
 82,VfL Wolfsburg,Germany,in,AM,9265,Manchester City U23,England,450000.0
-82,VfL Wolfsburg,Germany,in,LW,311,Pohang Steelers,Other,50000.0
 82,VfL Wolfsburg,Germany,in,RW,44,Hertha BSC,Germany,13000000.0
 82,VfL Wolfsburg,Germany,in,CF,143,VfL Wolfsburg II,Germany,75000.0
 82,VfL Wolfsburg,Germany,in,LW,143,VfL Wolfsburg II,Germany,200000.0
@@ -36506,7 +36403,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 82,VfL Wolfsburg,Germany,left,CF,79,VfB Stuttgart,Germany,4000000.0
 82,VfL Wolfsburg,Germany,left,CM,80,VfL Bochum,Germany,4000000.0
 82,VfL Wolfsburg,Germany,left,CM,40373,FC Viktoria 1889 Berlin,Germany,150000.0
-82,VfL Wolfsburg,Germany,left,LW,2662,SKN St. Pölten,Other,50000.0
 82,VfL Wolfsburg,Germany,left,CM,515,Without Club,Other,0.0
 82,VfL Wolfsburg,Germany,left,SS,121,Dynamo Moscow,Other,7000000.0
 24,Eintracht Frankfurt,Germany,in,AM,206,Bröndby IF,Other,14000000.0
@@ -36672,7 +36568,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 60,SC Freiburg,Germany,left,LB,254,SV Sandhausen,Germany,800000.0
 60,SC Freiburg,Germany,left,CM,4,1.FC Nuremberg,Germany,1250000.0
 60,SC Freiburg,Germany,left,LW,187,1.FC Magdeburg,Germany,250000.0
-60,SC Freiburg,Germany,left,RW,3301,Suwon Samsung Bluewings,Other,2000000.0
 60,SC Freiburg,Germany,left,DM,504,Grasshopper Club Zurich,Other,800000.0
 60,SC Freiburg,Germany,left,DM,245,SC Freiburg II,Germany,325000.0
 60,SC Freiburg,Germany,left,GK,93,SC Verl,Germany,250000.0
@@ -36699,11 +36594,9 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 39,1.FSV Mainz 05,Germany,in,DM,65,SpVgg Greuther Fürth,Germany,7000000.0
 39,1.FSV Mainz 05,Germany,in,RB,26,FC Basel 1893,Other,6500000.0
 39,1.FSV Mainz 05,Germany,in,CF,89,1.FC Union Berlin,Germany,4100000.0
-39,1.FSV Mainz 05,Germany,in,AM,269,Holstein Kiel,Germany,3000000.0
 39,1.FSV Mainz 05,Germany,in,LB,10,Arminia Bielefeld,Germany,2500000.0
 39,1.FSV Mainz 05,Germany,in,GK,851,1.FSV Mainz 05 II,Germany,100000.0
 39,1.FSV Mainz 05,Germany,in,CB,851,1.FSV Mainz 05 II,Germany,4000000.0
-39,1.FSV Mainz 05,Germany,in,CF,23,Eintracht Braunschweig,Germany,800000.0
 39,1.FSV Mainz 05,Germany,in,CF,317,Twente Enschede FC,Other,700000.0
 39,1.FSV Mainz 05,Germany,in,LB,940,Celta de Vigo,Spain,4500000.0
 39,1.FSV Mainz 05,Germany,in,GK,60,SC Freiburg,Germany,8000000.0
@@ -36715,7 +36608,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 39,1.FSV Mainz 05,Germany,left,CM,33,FC Schalke 04,Germany,1000000.0
 39,1.FSV Mainz 05,Germany,left,CM,89,1.FC Union Berlin,Germany,2500000.0
 39,1.FSV Mainz 05,Germany,left,RB,383,PSV Eindhoven,Other,2500000.0
-39,1.FSV Mainz 05,Germany,left,CF,6500,FC Seoul,Other,800000.0
 39,1.FSV Mainz 05,Germany,left,CF,503,FC Admira Wacker Mödling,Other,300000.0
 39,1.FSV Mainz 05,Germany,left,LB,30,FC Hansa Rostock,Germany,600000.0
 39,1.FSV Mainz 05,Germany,left,CF,144,HNK Rijeka,Other,700000.0
@@ -37027,7 +36919,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 1159,AS Nancy-Lorraine,France,in,CM,162,AS Monaco,France,1000000.0
 1159,AS Nancy-Lorraine,France,in,CF,162,AS Monaco,France,0.0
 1159,AS Nancy-Lorraine,France,in,CB,40,FC Girondins Bordeaux,France,1500000.0
-1159,AS Nancy-Lorraine,France,in,CF,290,AJ Auxerre,France,0.0
 1159,AS Nancy-Lorraine,France,in,RW,10840,AS Nancy-Lorraine B,France,175000.0
 1159,AS Nancy-Lorraine,France,in,RB,7074,Politehnica Timisoara,Other,200000.0
 1159,AS Nancy-Lorraine,France,in,DM,3161,Tours FC,France,0.0
@@ -37325,7 +37216,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 290,AJ Auxerre,France,left,AM,252,Genoa CFC,Italy,0.0
 290,AJ Auxerre,France,left,LW,1175,LB Châteauroux,France,325000.0
 290,AJ Auxerre,France,left,GK,2967,Besançon Racing Club,France,0.0
-290,AJ Auxerre,France,left,CF,1159,AS Nancy-Lorraine,France,0.0
 290,AJ Auxerre,France,left,LW,1081,CS Sedan-Ardennes,France,350000.0
 290,AJ Auxerre,France,left,CB,515,Without Club,Other,0.0
 273,Stade Rennais FC,France,in,AM,1159,AS Nancy-Lorraine,France,4000000.0
@@ -37399,7 +37289,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 2969,Dijon FCO,France,left,LW,9902,Le Poiré-sur-Vie VF,France,0.0
 1423,Valenciennes FC,France,in,CM,260,FC Zürich,Other,600000.0
 1423,Valenciennes FC,France,in,DM,3057,Standard Liège,Other,650000.0
-1423,Valenciennes FC,France,left,AM,26091,Lekhwiya Sports Club,Other,3300000.0
 1423,Valenciennes FC,France,left,CM,7042,US Boulogne,France,0.0
 1423,Valenciennes FC,France,left,CB,679,Atlético Paranaense,Other,0.0
 1423,Valenciennes FC,France,left,CF,8728,Aviron Bayonnais,France,0.0
@@ -37463,9 +37352,7 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 583,Paris Saint-Germain,France,in,CB,631,Chelsea FC,England,5000000.0
 583,Paris Saint-Germain,France,in,LB,131,FC Barcelona,Spain,3500000.0
 583,Paris Saint-Germain,France,in,GK,515,Without Club,Other,0.0
-583,Paris Saint-Germain,France,in,3610,Seongnam Ilhwa Chunma,"Korea,Other,300000.0
 583,Paris Saint-Germain,France,left,CF,273,Stade Rennais FC,France,6750000.0
-583,Paris Saint-Germain,France,left,3610,Seongnam Ilhwa Chunma,"Korea,Other,300000.0
 583,Paris Saint-Germain,France,left,CB,3524,Clermont Foot Auvergne 63,France,850000.0
 417,OGC Nice,France,in,CM,750,FC Sochaux-Montbéliard,France,2500000.0
 417,OGC Nice,France,in,AM,1181,Blackpool FC,England,400000.0
@@ -37621,7 +37508,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 1159,AS Nancy-Lorraine,France,left,LB,515,Without Club,Other,0.0
 1159,AS Nancy-Lorraine,France,left,CB,618,AS Saint-Étienne,France,400000.0
 1159,AS Nancy-Lorraine,France,left,RW,16795,Granada CF,Spain,350000.0
-1159,AS Nancy-Lorraine,France,left,CF,290,AJ Auxerre,France,0.0
 1159,AS Nancy-Lorraine,France,left,CM,162,AS Monaco,France,1000000.0
 1159,AS Nancy-Lorraine,France,left,CF,162,AS Monaco,France,0.0
 1159,AS Nancy-Lorraine,France,left,CB,40,FC Girondins Bordeaux,France,1500000.0
@@ -38518,7 +38404,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 995,FC Nantes,France,in,LW,10851,FC Nantes U19,France,5500000.0
 995,FC Nantes,France,in,CF,10920,Umm Salal SC,Other,0.0
 995,FC Nantes,France,left,DM,1420,SCO Angers,France,250000.0
-995,FC Nantes,France,left,CF,1154,Red Star FC,France,500000.0
 995,FC Nantes,France,left,LB,290,AJ Auxerre,France,0.0
 995,FC Nantes,France,left,CB,515,Without Club,Other,0.0
 995,FC Nantes,France,left,CB,531,Caracas FC,Other,0.0
@@ -38709,7 +38594,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 1162,SM Caen,France,left,DM,3060,Atromitos Athen,Other,0.0
 1162,SM Caen,France,left,CM,1531,Elche CF,Spain,1800000.0
 1162,SM Caen,France,left,GK,11300,Athlétic Club Arlésien,France,0.0
-1162,SM Caen,France,left,RW,29904,Tallinna FC Olympic,Other,325000.0
 1162,SM Caen,France,left,AM,1158,FC Lorient,France,1200000.0
 1162,SM Caen,France,left,CF,1421,Stade Reims,France,2500000.0
 14171,FC Évian Thonon Gaillard,France,in,CF,195,Rosenborg BK,Other,2000000.0
@@ -40546,7 +40430,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 415,FC Toulouse,France,left,CF,583,Paris Saint-Germain,France,17000000.0
 1159,AS Nancy-Lorraine,France,in,RW,3524,Clermont Foot 63,France,250000.0
 1159,AS Nancy-Lorraine,France,left,CB,368,Sevilla FC,Spain,23400000.0
-2969,Dijon FCO,France,in,RW,3301,Suwon Samsung Bluewings,Other,3500000.0
 2969,Dijon FCO,France,in,LB,819,Club Africain Tunis,Other,1800000.0
 2969,Dijon FCO,France,left,LB,3911,Stade Brestois 29,France,400000.0
 2969,Dijon FCO,France,left,DM,3911,Stade Brestois 29,France,700000.0
@@ -41130,7 +41013,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 1095,ESTAC Troyes,France,in,CB,995,FC Nantes,France,0.0
 1095,ESTAC Troyes,France,in,LM,3911,Stade Brestois 29,France,1000000.0
 1095,ESTAC Troyes,France,in,AM,244,Olympique Marseille,France,1800000.0
-1095,ESTAC Troyes,France,in,CF,720,FC Porto,Other,1000000.0
 1095,ESTAC Troyes,France,in,RB,969,Montpellier HSC,France,500000.0
 1095,ESTAC Troyes,France,in,DM,1158,FC Lorient,France,250000.0
 1095,ESTAC Troyes,France,in,CB,1082,LOSC Lille,France,25000000.0
@@ -41698,7 +41580,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 583,Paris Saint-Germain,France,left,CF,162,AS Monaco,France,160000000.0
 1421,Stade Reims,France,in,LB,2420,Vitória Guimarães SC,Other,10000000.0
 1421,Stade Reims,France,in,RB,157,KAA Gent,Other,9500000.0
-1421,Stade Reims,France,in,CF,1095,ESTAC Troyes,France,4000000.0
 1421,Stade Reims,France,in,CM,1095,ESTAC Troyes,France,2300000.0
 1421,Stade Reims,France,in,CB,3524,Clermont Foot 63,France,1000000.0
 1421,Stade Reims,France,in,LW,1083,FK Rostov,Other,2000000.0
@@ -42036,7 +41917,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 1420,SCO Angers,France,left,CM,337,Birmingham City,England,400000.0
 1420,SCO Angers,France,left,GK,290,AJ Auxerre,France,500000.0
 40,FC Girondins Bordeaux,France,in,CB,11,Arsenal FC,England,8500000.0
-40,FC Girondins Bordeaux,France,in,CF,596,Gamba Osaka,Other,7000000.0
 40,FC Girondins Bordeaux,France,in,CB,273,Stade Rennais FC,France,1200000.0
 40,FC Girondins Bordeaux,France,in,LB,452,BSC Young Boys,Other,2500000.0
 40,FC Girondins Bordeaux,France,in,RB,995,FC Nantes,France,3200000.0
@@ -42105,7 +41985,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 2969,Dijon FCO,France,left,LW,7732,Al-Ettifaq,Other,12500000.0
 2969,Dijon FCO,France,left,RB,336,Sporting CP,Other,12500000.0
 2969,Dijon FCO,France,left,CF,865,FC Midtjylland,Other,6000000.0
-2969,Dijon FCO,France,left,RW,60,SC Freiburg,Germany,4000000.0
 2969,Dijon FCO,France,left,LW,826,RC Lens,France,2000000.0
 2969,Dijon FCO,France,left,GK,683,Olympiacos Piraeus,Other,400000.0
 2969,Dijon FCO,France,left,LB,7732,Al-Ettifaq,Other,1800000.0
@@ -42660,7 +42539,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 162,AS Monaco,France,left,CB,515,Without Club,Other,0.0
 162,AS Monaco,France,left,GK,1416,Amiens SC,France,400000.0
 162,AS Monaco,France,left,CF,23826,RB Leipzig,Germany,1500000.0
-969,Montpellier HSC,France,in,LW,3828,Yokohama F. Marinos,Other,1000000.0
 969,Montpellier HSC,France,left,CF,35012,FC Chambly,France,600000.0
 969,Montpellier HSC,France,left,RB,866,Club Nacional,Other,500000.0
 969,Montpellier HSC,France,left,CF,2381,Sivasspor,Other,500000.0
@@ -42683,7 +42561,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 1421,Stade Reims,France,in,CF,72310,Afrique Football Elite,Other,6500000.0
 1421,Stade Reims,France,in,CB,2861,KV Oostende,Other,7000000.0
 1421,Stade Reims,France,left,RW,40,FC Girondins Bordeaux,France,17000000.0
-1421,Stade Reims,France,left,CF,1095,ESTAC Troyes,France,1000000.0
 1421,Stade Reims,France,left,CB,2861,KV Oostende,Other,7000000.0
 273,Stade Rennais FC,France,in,GK,7042,US Boulogne,France,100000.0
 273,Stade Rennais FC,France,in,DM,12,AS Roma,Italy,8000000.0
@@ -43616,7 +43493,6 @@ Team1_Id, Team1_name, Country1, Direction, Position, Team2_id, Team2_name, Count
 969,Montpellier HSC,France,left,DM,2441,AEK Athens,Other,1800000.0
 969,Montpellier HSC,France,left,CB,2969,Dijon FCO,France,500000.0
 969,Montpellier HSC,France,left,CF,91870,AEK Athens B,Other,200000.0
-969,Montpellier HSC,France,left,LW,3535,Ulsan Hyundai,Other,1000000.0
 969,Montpellier HSC,France,left,CM,1161,Chamois Niortais FC,France,400000.0
 969,Montpellier HSC,France,left,LW,568,Kaizer Chiefs,Other,1000000.0
 969,Montpellier HSC,France,left,CF,63993,Sabah FK,Other,500000.0
