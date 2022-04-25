@@ -11,6 +11,17 @@ germany_teams = []
 italy_teams = []
 spain_teams = []
 other_teams = []
+best_teams_ids = [985, 281, 31, 631, 11,
+                  583, 244, 162, 1041, 1082,
+                  27, 16, 23826, 18, 33,
+                  5, 46, 506, 12, 398,
+                  418, 131, 13, 1049, 621]
+
+best_teams = ['Manchester United', 'Manchester City', 'Liverpool FC', 'Chelsea FC', 'Arsenal FC',
+              'Paris Saint-Germain', 'Olympique Marseille', 'AS Monaco', 'Olympique Lyon', 'LOSC Lille',
+              'Bayern Munich', 'Borussia Dortmund', 'RB Leipzig', 'Borussia Mönchengladbach', 'FC Schalke 04',
+              'AC Milan', 'Inter Milan', 'Juventus FC', 'AS Roma', 'SS Lazio',
+              'Real Madrid', 'FC Barcelona', 'Atlético de Madrid', 'Valencia CF', 'Athletic Bilbao']
 
 
 def getTeamCountry(team_country, team_name):
@@ -118,15 +129,25 @@ def getCountryForCommunity(communities_teams):
     return result
 
 
+def getBestTeamsCommunities(communities_teams, best_teams):
+    result = []
+    for team in best_teams:
+        for i in range(len(communities_teams)):
+            if team in communities_teams[i]:
+                result.append((team, i))
+                break
+    return result
+
+
 if __name__ == "__main__":
     print('---------------------------')
 
     G, labels = read()
-    communities_teams = getCommunities(G)
     print('Number of nodes: ' + str(len(G.nodes())))
     print('Number of edges: ' + str(len(G.edges())))
     print('---------------------------')
 
+    communities_teams = getCommunities(G)
     number_teams_country = getNumberTeamsForCountry(communities_teams)
     print('Number of clubs for each country')
     print('England: ' + str(number_teams_country[0]) + ' France: ' + str(number_teams_country[1]) +
@@ -143,6 +164,11 @@ if __name__ == "__main__":
               ' Spain: ' + str(community_country[i][4]) + ' Other: ' + str(community_country[i][5]))
     print('---------------------------')
 
-    for edge in G.edges(data=True):
-        print(edge)
+    best_teams_communities = getBestTeamsCommunities(communities_teams, best_teams)
+    print('Best teams communities:')
+    print(best_teams_communities)
+    print('---------------------------')
 
+    # for node in G.nodes(data=True):
+    #     if node[0] in best_teams_ids:
+    #         print(node[1]['team_name'])
