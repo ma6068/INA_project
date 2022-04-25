@@ -38,7 +38,9 @@ if __name__ == "__main__":
     for i in range(len(communities)):
         for j in range(len(communities[i])):
             communities_teams[i].append(labels[communities[i][j]])
-    print(communities_teams)
+    # print(communities_teams)
+    for el in communities_teams:
+        print(el)
     # G = ig.Graph.from_networkx(G)
     # com = leidenalg.find_partition(G, leidenalg.ModularityVertexPartition)
     # print(com)
