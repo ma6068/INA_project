@@ -51,9 +51,11 @@ def read():
                     labels[int(data[5])] = data[6]
                 price = int(float(data[8]))
                 if data[3] == 'in':
-                    G.add_edge(int(data[0]), int(data[5]), price=price, player_position=data[4])
+                    G.add_edge(int(data[0]), int(data[5]), price=price, player_position=data[4], team1_name=data[1],
+                               team2_name=data[6])
                 elif data[3] == 'left':
-                    G.add_edge(int(data[5]), int(data[0]), price=price, player_position=data[4])
+                    G.add_edge(int(data[5]), int(data[0]), price=price, player_position=data[4], team1_name=data[1],
+                               team2_name=data[6])
         return G, labels
 
 
@@ -140,4 +142,7 @@ if __name__ == "__main__":
               ' Germany: ' + str(community_country[i][2]) + ' Italy: ' + str(community_country[i][3]) +
               ' Spain: ' + str(community_country[i][4]) + ' Other: ' + str(community_country[i][5]))
     print('---------------------------')
+
+    for edge in G.edges(data=True):
+        print(edge)
 
