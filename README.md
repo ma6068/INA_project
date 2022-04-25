@@ -50,3 +50,15 @@
 4. Spain
 5. Other
 ```
+
+#### Node data example
+```Language
+(985, {'team_name': 'Manchester United', 'team_country': 'England'})
+id=985
+```
+
+#### Edge data example
+```Language
+(80, 3862, {'price': 200000, 'player_position': 'CF'})
+From club with id=80 to club with id=3862
+```

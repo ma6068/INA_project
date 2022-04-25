@@ -44,15 +44,16 @@ def read():
                 if data[5] == 'Retired':
                     continue
                 if data[0] not in list(G.nodes()):
-                    G.add_node(int(data[0]), label=data[1])
+                    G.add_node(int(data[0]), team_name=data[1], team_country=data[2])
                     labels[int(data[0])] = data[1]
                 if data[5] not in list(G.nodes()):
-                    G.add_node(int(data[5]), label=data[6])
+                    G.add_node(int(data[5]), team_name=data[6], team_country=data[7])
                     labels[int(data[5])] = data[6]
+                price = int(float(data[8]))
                 if data[3] == 'in':
-                    G.add_edge(int(data[0]), int(data[5]))
+                    G.add_edge(int(data[0]), int(data[5]), price=price, player_position=data[4])
                 elif data[3] == 'left':
-                    G.add_edge(int(data[5]), int(data[0]))
+                    G.add_edge(int(data[5]), int(data[0]), price=price, player_position=data[4])
         return G, labels
 
 
@@ -139,3 +140,4 @@ if __name__ == "__main__":
               ' Germany: ' + str(community_country[i][2]) + ' Italy: ' + str(community_country[i][3]) +
               ' Spain: ' + str(community_country[i][4]) + ' Other: ' + str(community_country[i][5]))
     print('---------------------------')
+
