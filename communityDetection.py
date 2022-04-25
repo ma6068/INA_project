@@ -61,21 +61,20 @@ def read():
                     G.add_node(int(data[5]), team_name=data[6], team_country=data[7])
                     labels[int(data[5])] = data[6]
                 price = int(float(data[8]))
-                if data[3] == 'in':
-                    G.add_edge(int(data[0]), int(data[5]), price=price, player_position=data[4], team1_name=data[1],
-                               team2_name=data[6])
-                elif data[3] == 'left':
-                    G.add_edge(int(data[5]), int(data[0]), price=price, player_position=data[4], team1_name=data[1],
-                               team2_name=data[6])
+                if data[3] == 'left':
+                    G.add_edge(int(data[0]), int(data[5]), price=price, player_position=data[4])
+                # povezavite se podvoeni zatoa gi dodavame samo tie kade sto e left
+                # elif data[3] == 'in':
+                #     G.add_edge(int(data[5]), int(data[0]), price=price, player_position=data[4])
         return G, labels
 
 
-def getCommunities(G):
+def getCommunities(G, all_teams):
     communities = louvain(G).communities
     communities_teams = [[] for _ in range(len(communities))]
     for i in range(len(communities)):
         for j in range(len(communities[i])):
-            communities_teams[i].append(labels[communities[i][j]])
+            communities_teams[i].append(all_teams[communities[i][j]])
     return communities_teams
 
 
@@ -130,24 +129,34 @@ def getCountryForCommunity(communities_teams):
 
 
 def getBestTeamsCommunities(communities_teams, best_teams):
-    result = []
+    result = {}
     for team in best_teams:
         for i in range(len(communities_teams)):
             if team in communities_teams[i]:
-                result.append((team, i))
+                result[team] = i
                 break
+    return result
+
+
+def getBestTeamsLeftTransfers(G, best_teams_ids, communities_teams, all_teams):
+    result = []
+    for team in best_teams_ids:
+        for edge in G.edges(data=True):
+            if team == edge[0]:
+                a = 2
+                # TODO: prodolzi od tuka
     return result
 
 
 if __name__ == "__main__":
     print('---------------------------')
 
-    G, labels = read()
+    G, all_teams = read()
     print('Number of nodes: ' + str(len(G.nodes())))
     print('Number of edges: ' + str(len(G.edges())))
     print('---------------------------')
 
-    communities_teams = getCommunities(G)
+    communities_teams = getCommunities(G, all_teams)
     number_teams_country = getNumberTeamsForCountry(communities_teams)
     print('Number of clubs for each country')
     print('England: ' + str(number_teams_country[0]) + ' France: ' + str(number_teams_country[1]) +
@@ -169,6 +178,4 @@ if __name__ == "__main__":
     print(best_teams_communities)
     print('---------------------------')
 
-    # for node in G.nodes(data=True):
-    #     if node[0] in best_teams_ids:
-    #         print(node[1]['team_name'])
+    best_teams_in_transfers = getBestTeamsLeftTransfers(G, best_teams_ids, communities_teams, all_teams)
