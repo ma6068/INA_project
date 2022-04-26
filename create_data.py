@@ -18,6 +18,7 @@ for filename in os.listdir('./data'):
                 team1_name = data[4]
                 team1_country = data[5]
                 direction = data[6]
+                player_name = data[8]
                 position = data[12]
                 team2_id = data[13]
                 team2_name = data[14]
@@ -31,4 +32,4 @@ for filename in os.listdir('./data'):
                 price = float(price1) + float(price2)
                 if team2_country != 'England' and team2_country != 'France' and team2_country != 'Germany' and team2_country != 'Italy' and team2_country != 'Spain':
                     team2_country = 'Other'
-                f2.write(team1_id + ',' + team1_name + ',' + team1_country + ',' + direction + ',' + position + ',' + team2_id + ',' + team2_name + ',' + team2_country + ',' + str(price) + '\n')
+                f2.write(team1_id + ',' + team1_name + ',' + team1_country + ',' + direction + ',' + position + ',' + team2_id + ',' + team2_name + ',' + team2_country + ',' + str(price) + ',' + player_name + '\n')

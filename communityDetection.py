@@ -40,6 +40,7 @@ def getTeamCountry(team_country, team_name):
 
 
 def read():
+    all_data = []
     for filename in os.listdir('./data'):
         if filename != 'data.txt':
             continue
@@ -61,11 +62,14 @@ def read():
                     G.add_node(int(data[5]), team_name=data[6], team_country=data[7])
                     labels[int(data[5])] = data[6]
                 price = int(float(data[8]))
-                if data[3] == 'left':
-                    G.add_edge(int(data[0]), int(data[5]), price=price, player_position=data[4])
-                # povezavite se podvoeni zatoa gi dodavame samo tie kade sto e left
-                # elif data[3] == 'in':
-                #     G.add_edge(int(data[5]), int(data[0]), price=price, player_position=data[4])
+                if (int(data[0]), int(data[5]), price, data[4], data[9]) not in all_data\
+                        and (int(data[5]), int(data[0]), price, data[4], data[9]) not in all_data:
+                    if data[3] == 'left':
+                        G.add_edge(int(data[0]), int(data[5]), price=price, player_position=data[4])
+                        all_data.append((int(data[0]), int(data[5]), price, data[4], data[9]))
+                    elif data[3] == 'in':
+                        G.add_edge(int(data[5]), int(data[0]), price=price, player_position=data[4])
+                        all_data.append((int(data[0]), int(data[5]), price, data[4], data[9]))
         return G, labels
 
 
@@ -179,3 +183,4 @@ if __name__ == "__main__":
     print('---------------------------')
 
     best_teams_in_transfers = getBestTeamsLeftTransfers(G, best_teams_ids, communities_teams, all_teams)
+

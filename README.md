@@ -11,6 +11,7 @@
 6. Team2_name
 7. Country2
 8. Price 
+9. Player_name
 
 ```
 
