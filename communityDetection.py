@@ -1,8 +1,6 @@
 import os
 import networkx as nx
 from cdlib.algorithms import louvain
-import leidenalg
-import igraph as ig
 
 
 england_teams = []
@@ -142,14 +140,38 @@ def getBestTeamsCommunities(communities_teams, best_teams):
     return result
 
 
-def getBestTeamsLeftTransfers(G, best_teams_ids, communities_teams, all_teams):
-    result = []
-    for team in best_teams_ids:
-        for edge in G.edges(data=True):
-            if team == edge[0]:
-                a = 2
-                # TODO: prodolzi od tuka
-    return result
+def find_community_index(communities_teams, team_name):
+    for i in range(len(communities_teams)):
+        if team_name in communities_teams[i]:
+            return i
+
+
+def getBestTeamsInOutTransfersData(G, best_teams_ids, communities_teams, all_teams):
+    result_out_communities = {}
+    result_in_communities = {}
+    result_out_money = {}
+    result_in_money = {}
+    for edge in G.edges(data=True):
+        for teamId in best_teams_ids:
+            if teamId == edge[0]:  # prodaden igrac
+                team_name = all_teams[teamId]
+                if team_name not in result_out_money.keys():
+                    result_out_money[team_name] = 0
+                    result_out_communities[team_name] = [0] * len(communities_teams)
+                result_out_money[team_name] += edge[2]['price']
+                team_name_2 = all_teams[edge[1]]
+                index = find_community_index(communities_teams, team_name_2)
+                result_out_communities[team_name][index] += 1
+            elif teamId == edge[1]:  # kupen igrac
+                team_name = all_teams[teamId]
+                if team_name not in result_in_money.keys():
+                    result_in_money[team_name] = 0
+                    result_in_communities[team_name] = [0] * len(communities_teams)
+                result_in_money[team_name] += edge[2]['price']
+                team_name_2 = all_teams[edge[0]]
+                index = find_community_index(communities_teams, team_name_2)
+                result_in_communities[team_name][index] += 1
+    return result_out_communities, result_in_communities, result_out_money, result_in_money
 
 
 if __name__ == "__main__":
@@ -182,5 +204,16 @@ if __name__ == "__main__":
     print(best_teams_communities)
     print('---------------------------')
 
-    best_teams_in_transfers = getBestTeamsLeftTransfers(G, best_teams_ids, communities_teams, all_teams)
-
+    result_out_communities, result_in_communities, result_out_money, result_in_money = getBestTeamsInOutTransfersData(G, best_teams_ids, communities_teams, all_teams)
+    print('Spend money (each team):')
+    print(result_out_money)
+    print('---------------------------')
+    print('Earned money (each team):')
+    print(result_in_money)
+    print('---------------------------')
+    print('Number of OUT transfers by community for each team')
+    print(result_out_communities)
+    print('---------------------------')
+    print('Number of IN transfers by community for each team')
+    print(result_in_communities)
+    print('---------------------------')

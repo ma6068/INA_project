@@ -60,6 +60,6 @@ id=985
 
 #### Edge data example
 ```Language
-(415, 276, {'price': 500000, 'player_position': 'CM', 'team1_name': 'FC Toulouse', 'team2_name': 'Hellas Verona'})
+(415, 276, {'price': 500000, 'player_position': 'CM')
 From club with id=415 to club with id=276
 ```
