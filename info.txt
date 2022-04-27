@@ -1,0 +1,45 @@
+Number of nodes: 2282
+Number of edges: 29972
+------------------------ 
+Number of clubs for each country 
+England: 238 France: 188 Germany: 170 Italy: 424 Spain: 165 Other: 1097
+--------------------------- 
+Number of teams for each country by community 
+Community 0
+England: 3 France: 3 Germany: 1 Italy: 421 Spain: 7 Other: 310
+Community 1
+England: 7 France: 182 Germany: 1 Italy: 1 Spain: 6 Other: 257
+Community 2
+England: 5 France: 3 Germany: 168 Italy: 0 Spain: 4 Other: 213
+Community 3
+England: 220 France: 0 Germany: 0 Italy: 0 Spain: 1 Other: 139
+Community 4
+England: 3 France: 0 Germany: 0 Italy: 2 Spain: 147 Other: 178
+--------------------------- 
+Best teams communities: 
+Manchester United 3
+Manchester City 3
+Liverpool FC 3
+Chelsea FC 3
+Arsenal FC 3
+Paris Saint-Germain 1
+Olympique Marseille 1
+AS Monaco 1
+Olympique Lyon 1
+LOSC Lille 1
+Bayern Munich 2
+Borussia Dortmund 2
+RB Leipzig 2
+Borussia Mönchengladbach 2
+FC Schalke 04 2
+AC Milan 0
+Inter Milan 0
+Juventus FC 0
+AS Roma 0
+SS Lazio 0
+Real Madrid 4
+FC Barcelona 4
+Atlético de Madrid 4
+Valencia CF 4
+Athletic Bilbao 4
+---------------------------

@@ -2,7 +2,6 @@ import os
 import networkx as nx
 from cdlib.algorithms import louvain
 
-
 england_teams = []
 france_teams = []
 germany_teams = []
@@ -60,7 +59,7 @@ def read():
                     G.add_node(int(data[5]), team_name=data[6], team_country=data[7])
                     labels[int(data[5])] = data[6]
                 price = int(float(data[8]))
-                if (int(data[0]), int(data[5]), price, data[4], data[9]) not in all_data\
+                if (int(data[0]), int(data[5]), price, data[4], data[9]) not in all_data \
                         and (int(data[5]), int(data[0]), price, data[4], data[9]) not in all_data:
                     if data[3] == 'left':
                         G.add_edge(int(data[0]), int(data[5]), price=price, player_position=data[4])
@@ -175,45 +174,64 @@ def getBestTeamsInOutTransfersData(G, best_teams_ids, communities_teams, all_tea
 
 
 if __name__ == "__main__":
-    print('---------------------------')
+    f2 = open('./info.txt', 'w', encoding='utf8')
 
     G, all_teams = read()
-    print('Number of nodes: ' + str(len(G.nodes())))
-    print('Number of edges: ' + str(len(G.edges())))
-    print('---------------------------')
+    f2.write('Number of nodes: ' + str(len(G.nodes())) + '\n')
+    f2.write('Number of edges: ' + str(len(G.edges())) + '\n')
+    f2.write('------------------------ \n')
 
     communities_teams = getCommunities(G, all_teams)
     number_teams_country = getNumberTeamsForCountry(communities_teams)
-    print('Number of clubs for each country')
-    print('England: ' + str(number_teams_country[0]) + ' France: ' + str(number_teams_country[1]) +
-          ' Germany: ' + str(number_teams_country[2]) + ' Italy: ' + str(number_teams_country[3]) +
-          ' Spain: ' + str(number_teams_country[4]) + ' Other: ' + str(number_teams_country[5]))
-    print('---------------------------')
+    f2.write('Number of clubs for each country \n')
+    f2.write(('England: ' + str(number_teams_country[0]) + ' France: ' + str(number_teams_country[1]) +
+              ' Germany: ' + str(number_teams_country[2]) + ' Italy: ' + str(number_teams_country[3]) +
+              ' Spain: ' + str(number_teams_country[4]) + ' Other: ' + str(number_teams_country[5])) + '\n')
+    f2.write('--------------------------- \n')
 
     community_country = getCountryForCommunity(communities_teams)
-    print('Number of teams for each country by community')
+    f2.write('Number of teams for each country by community \n')
     for i in range(len(community_country)):
-        print('Community ' + str(i))
-        print('England: ' + str(community_country[i][0]) + ' France: ' + str(community_country[i][1]) +
-              ' Germany: ' + str(community_country[i][2]) + ' Italy: ' + str(community_country[i][3]) +
-              ' Spain: ' + str(community_country[i][4]) + ' Other: ' + str(community_country[i][5]))
-    print('---------------------------')
+        f2.write('Community ' + str(i) + '\n')
+        f2.write('England: ' + str(community_country[i][0]) + ' France: ' + str(community_country[i][1]) +
+                 ' Germany: ' + str(community_country[i][2]) + ' Italy: ' + str(community_country[i][3]) +
+                 ' Spain: ' + str(community_country[i][4]) + ' Other: ' + str(community_country[i][5]) + '\n')
+    f2.write('--------------------------- \n')
 
     best_teams_communities = getBestTeamsCommunities(communities_teams, best_teams)
-    print('Best teams communities:')
-    print(best_teams_communities)
-    print('---------------------------')
+    f2.write('Best teams communities: \n')
+    for key in best_teams_communities.keys():
+        f2.write(key + " " + str(best_teams_communities[key]) + '\n')
+    f2.write('---------------------------')
+    f2.close()
 
-    result_out_communities, result_in_communities, result_out_money, result_in_money = getBestTeamsInOutTransfersData(G, best_teams_ids, communities_teams, all_teams)
-    print('Spend money (each team):')
-    print(result_out_money)
-    print('---------------------------')
-    print('Earned money (each team):')
-    print(result_in_money)
-    print('---------------------------')
-    print('Number of OUT transfers by community for each team')
-    print(result_out_communities)
-    print('---------------------------')
-    print('Number of IN transfers by community for each team')
-    print(result_in_communities)
-    print('---------------------------')
+    f2 = open('./communities_info.txt', 'w', encoding='utf8')
+    for com in communities_teams:
+        for i in range(len(com)):
+            if i == len(com) - 1:
+                f2.write(com[i])
+            else:
+                f2.write(com[i] + ',')
+        f2.write('\n')  # po ova ke se splita ako gi citame od datoteka
+    f2.close()
+
+    f2 = open('./index_teams_info.txt', 'w', encoding='utf8')
+    for key in all_teams.keys():
+        f2.write(str(key) + ',' + all_teams[key] + '\n')
+
+    # result_out_communities, result_in_communities, result_out_money, result_in_money = getBestTeamsInOutTransfersData(G,
+    #                                                                                                                   best_teams_ids,
+    #                                                                                                                   communities_teams,
+    #                                                                                                                   all_teams)
+    # print('Spend money (each team):')
+    # print(result_out_money)
+    # print('---------------------------')
+    # print('Earned money (each team):')
+    # print(result_in_money)
+    # print('---------------------------')
+    # print('Number of OUT transfers by community for each team')
+    # print(result_out_communities)
+    # print('---------------------------')
+    # print('Number of IN transfers by community for each team')
+    # print(result_in_communities)
+    # print('---------------------------')
