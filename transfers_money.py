@@ -27,7 +27,7 @@ def read_communities():
 
 
 def get_team_money():
-    result = dict()  # key: [potroseni_pari, zemeni_pari, razlika]
+    result = dict()  # key: [zaraboteni_pari, potroseni_pari, razlika]
     f = open('./data/data.txt', 'r', encoding='utf8')
     f.readline()  # ja citame prvata linija
     lines = f.readlines()
@@ -37,12 +37,12 @@ def get_team_money():
             if data[1] not in result:
                 result[data[1]] = [0, 0, 0]
             price = int(float(data[8]))
-            if data[3] == 'left':
+            if data[3] == 'left':   # zaraboteni pari
                 result[data[1]][0] += price
-            elif data[3] == 'in':
+            elif data[3] == 'in':   # potroseni pari
                 result[data[1]][1] += price
     for key in result.keys():
-        result[key][2] = result[key][1] - result[key][0]
+        result[key][2] = result[key][0] - result[key][1]
     f.close()
     return result
 
@@ -81,7 +81,7 @@ if __name__ == "__main__":
     team_money = get_team_money()
     team_out_transfers, team_in_transfers = get_team_transfers(coms_dict)
     f = open('./money.txt', 'w', encoding='utf8')
-    f.write('Tim, Potroseni pari, Zaraboteni pari, Razlika \n')
+    f.write('Tim, Zaraboteni pari, Potroseni pari, Razlika \n')
     for key in team_money.keys():
         f.write(key + ',' + str(team_money[key][0]) + ',' + str(team_money[key][1]) + ',' + str(team_money[key][2]) + '\n')
     f.close()
