@@ -6,15 +6,15 @@ England: 238 France: 188 Germany: 170 Italy: 424 Spain: 165 Other: 1097
 --------------------------- 
 Number of teams for each country by community 
 Community 0
-England: 3 France: 3 Germany: 1 Italy: 421 Spain: 7 Other: 310
+England: 2 France: 2 Germany: 1 Italy: 420 Spain: 6 Other: 307
 Community 1
-England: 7 France: 182 Germany: 1 Italy: 1 Spain: 6 Other: 257
+England: 9 France: 184 Germany: 1 Italy: 2 Spain: 8 Other: 296
 Community 2
-England: 5 France: 3 Germany: 168 Italy: 0 Spain: 4 Other: 213
+England: 3 France: 2 Germany: 168 Italy: 0 Spain: 2 Other: 178
 Community 3
-England: 220 France: 0 Germany: 0 Italy: 0 Spain: 1 Other: 139
+England: 221 France: 0 Germany: 0 Italy: 0 Spain: 1 Other: 130
 Community 4
-England: 3 France: 0 Germany: 0 Italy: 2 Spain: 147 Other: 178
+England: 3 France: 0 Germany: 0 Italy: 2 Spain: 148 Other: 186
 --------------------------- 
 Best teams communities: 
 Manchester United 3

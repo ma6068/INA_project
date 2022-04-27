@@ -1,53 +1,53 @@
 Kolku OUT transferi ima napraveno ekipata za sekoj community 
-Manchester United,14,15,19,100,15
-Chelsea FC,40,36,69,138,47
-Arsenal FC,16,20,28,91,32
-Manchester City,18,30,35,117,61
-Liverpool FC,11,20,26,112,25
-Valencia CF,21,22,13,25,107
-Atlético de Madrid,17,23,15,28,120
-Real Madrid,15,12,18,23,58
-FC Barcelona,14,14,20,21,68
-Athletic Bilbao,2,7,3,7,91
-AC Milan,206,45,28,25,43
-Juventus FC,310,58,36,24,33
-SS Lazio,190,35,13,20,23
-AS Roma,282,54,28,32,44
-Inter Milan,251,42,24,23,44
-Bayern Munich,15,11,49,7,10
-Borussia Dortmund,5,6,80,18,17
-FC Schalke 04,3,24,96,24,17
-Borussia Mönchengladbach,2,14,84,12,5
-RB Leipzig,4,7,53,14,3
-Olympique Lyon,14,90,14,13,21
-LOSC Lille,17,108,17,24,13
-Paris Saint-Germain,13,77,16,17,24
-Olympique Marseille,17,99,15,28,17
-AS Monaco,20,131,34,36,31
+Manchester United,12,19,18,100,14
+Chelsea FC,39,48,59,136,47
+Arsenal FC,15,22,24,91,35
+Manchester City,18,37,30,113,63
+Liverpool FC,10,25,20,113,26
+Valencia CF,21,28,12,25,102
+Atlético de Madrid,16,32,13,28,113
+Real Madrid,15,15,18,22,56
+FC Barcelona,14,16,16,21,70
+Athletic Bilbao,2,8,3,6,91
+AC Milan,205,56,19,22,41
+Juventus FC,306,62,30,23,36
+SS Lazio,190,35,13,20,22
+AS Roma,280,60,19,30,46
+Inter Milan,248,47,19,23,45
+Bayern Munich,15,10,51,7,10
+Borussia Dortmund,6,8,78,18,16
+FC Schalke 04,5,22,99,22,16
+Borussia Mönchengladbach,2,10,88,11,6
+RB Leipzig,4,9,51,14,3
+Olympique Lyon,11,91,16,13,20
+LOSC Lille,15,116,10,24,14
+Paris Saint-Germain,13,78,14,17,25
+Olympique Marseille,16,104,12,26,18
+AS Monaco,21,145,24,35,27
 ---------------------------------- 
 Kolku IN transferi ima napraveno ekipata za sekoj community 
-Manchester United,22,9,17,89,19
-Chelsea FC,32,35,72,145,46
-Arsenal FC,13,20,31,80,31
-Manchester City,9,32,45,100,62
-Liverpool FC,10,11,41,106,21
-Valencia CF,20,16,9,15,130
-Atlético de Madrid,15,18,11,17,146
-Real Madrid,4,11,16,15,84
-FC Barcelona,11,12,15,19,91
-Athletic Bilbao,3,2,1,1,109
-AC Milan,70,37,9,24,21
-Juventus FC,103,9,11,13,18
-SS Lazio,70,14,10,11,22
-AS Roma,109,12,20,26,29
-Inter Milan,67,14,10,15,17
-Bayern Munich,11,6,69,6,12
-Borussia Dortmund,6,10,93,10,14
-FC Schalke 04,3,11,121,14,16
-Borussia Mönchengladbach,1,11,94,10,6
-RB Leipzig,2,11,57,13,4
-Olympique Lyon,8,115,7,11,15
-LOSC Lille,29,108,16,14,18
-Paris Saint-Germain,19,70,28,18,27
-Olympique Marseille,16,109,15,20,17
-AS Monaco,20,146,28,28,34
+Manchester United,20,13,16,89,18
+Chelsea FC,32,47,60,144,47
+Arsenal FC,13,21,29,80,32
+Manchester City,9,32,36,107,64
+Liverpool FC,10,24,27,106,22
+Valencia CF,19,25,8,15,123
+Atlético de Madrid,14,30,10,17,135
+Real Madrid,4,10,16,14,86
+FC Barcelona,11,16,11,19,91
+Athletic Bilbao,4,2,0,1,109
+AC Milan,68,39,7,24,21
+Juventus FC,97,12,12,13,18
+SS Lazio,71,15,7,11,22
+AS Roma,107,21,9,26,30
+Inter Milan,67,15,10,15,16
+Bayern Munich,11,8,70,6,9
+Borussia Dortmund,5,12,89,11,16
+FC Schalke 04,4,11,121,14,15
+Borussia Mönchengladbach,4,8,95,10,5
+RB Leipzig,2,12,56,13,4
+Olympique Lyon,7,116,7,11,15
+LOSC Lille,29,115,8,15,18
+Paris Saint-Germain,18,91,8,18,27
+Olympique Marseille,16,109,12,20,20
+AS Monaco,18,165,14,28,31
