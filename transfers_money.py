@@ -56,13 +56,13 @@ def get_team_transfers(community_dict):
     for line in lines:
         data = line.split(',')
         if data[1] in best_teams:
-            if data[6] == 'Retired':
-                continue
             if data[1] not in result_left:
                 result_left[data[1]] = [0, 0, 0, 0, 0]  # imame 5 communities
             if data[1] not in result_in:
                 result_in[data[1]] = [0, 0, 0, 0, 0]  # imame 5 communities
             team2 = data[6]
+            if team2 not in community_dict:
+                continue
             index = community_dict[team2]
             if data[3] == 'left':
                 result_left[data[1]][index] += 1
@@ -80,4 +80,22 @@ if __name__ == "__main__":
             coms_dict[communities[i][j]] = i
     team_money = get_team_money()
     team_out_transfers, team_in_transfers = get_team_transfers(coms_dict)
-    print(team_out_transfers)
+    f = open('./money.txt', 'w', encoding='utf8')
+    f.write('Tim, Potroseni pari, Zaraboteni pari, Razlika \n')
+    for key in team_money.keys():
+        f.write(key + ',' + str(team_money[key][0]) + ',' + str(team_money[key][1]) + ',' + str(team_money[key][2]) + '\n')
+    f.close()
+
+    f = open('./transfers.txt', 'w', encoding='utf8')
+    f.write('Kolku OUT transferi ima napraveno ekipata za sekoj community \n')
+    for key in team_out_transfers.keys():
+        f.write(key + ',' + str(team_out_transfers[key][0]) + ',' + str(team_out_transfers[key][1])
+                + ',' + str(team_out_transfers[key][2]) + ',' + str(team_out_transfers[key][3]) + ','
+                + str(team_out_transfers[key][4]) + '\n')
+    f.write('---------------------------------- \n')
+    f.write('Kolku IN transferi ima napraveno ekipata za sekoj community \n')
+    for key in team_in_transfers.keys():
+        f.write(key + ',' + str(team_in_transfers[key][0]) + ',' + str(team_in_transfers[key][1])
+                + ',' + str(team_in_transfers[key][2]) + ',' + str(team_in_transfers[key][3]) + ','
+                + str(team_in_transfers[key][4]) + '\n')
+    f.close()
