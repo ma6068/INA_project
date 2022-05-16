@@ -22,12 +22,11 @@ with open("money.txt", 'r', encoding='utf8') as f:
     i = 0
     for line in f:
         line = line.split(',')
-        pariOdTim = int(line[2]) / int(line[1])
         if (trofei[i] == 0):
-            print(line[0] + " osvoi: 0")
+            print(line[0] + " has 0 trophies")
         else:
-            rezultat = pariOdTim / trofei[i]
-            print(line[0] + " osvoi: " + str(rezultat))
+            rezultat = int(line[2]) / trofei[i]
+            print(line[0] + " spent: " + str(rezultat))
 
 
         i = i + 1

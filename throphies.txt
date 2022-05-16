@@ -1,25 +1,25 @@
-Manchester United osvoi: 1.2624033605586382
-Chelsea FC osvoi: 0.2634433715264938
-Arsenal FC osvoi: 0.863509566902838
-Manchester City osvoi: 0.37649301312669053
-Liverpool FC osvoi: 0.4269514774077785
-Valencia CF osvoi: 0.08400555986679895
-Atlético de Madrid osvoi: 0
-Real Madrid osvoi: 1.3141514638461391
-FC Barcelona osvoi: 1.4740662406624065
-Athletic Bilbao osvoi: 0.37924591257924595
-AC Milan osvoi: 0.08592712185335336
-Juventus FC osvoi: 0.22337612863874
-SS Lazio osvoi: 0
-AS Roma osvoi: 0
-Inter Milan osvoi: 0.926161410138051
-Bayern Munich osvoi: 0
-Borussia Dortmund osvoi: 0
-FC Schalke 04 osvoi: 0.07359868558512357
-Borussia Mönchengladbach osvoi: 0
-RB Leipzig osvoi: 0.7756451780818748
-Olympique Lyon osvoi: 0.10216957445438743
-LOSC Lille osvoi: 0.09462335034997446
-Paris Saint-Germain osvoi: 2.1107296636797392
-Olympique Marseille osvoi: 1.3764467644141978
-AS Monaco osvoi: 0
+Manchester United spent: 1619815000.0
+Chelsea FC spent: 1137010000.0
+Arsenal FC spent: 1318700000.0
+Manchester City spent: 632484166.5
+Liverpool FC spent: 732870750.0
+Valencia CF spent: 122169285.71428572
+Atlético de Madrid has 0 trophies
+Real Madrid spent: 3454050000.0
+FC Barcelona spent: 3275670000.0
+Athletic Bilbao spent: 189433333.33333334
+AC Milan spent: 144764000.0
+Juventus FC spent: 717422250.0
+SS Lazio has 0 trophies
+AS Roma has 0 trophies
+Inter Milan spent: 2156891000.0
+Bayern Munich has 0 trophies
+Borussia Dortmund has 0 trophies
+FC Schalke 04 spent: 55353571.428571425
+Borussia Mönchengladbach has 0 trophies
+RB Leipzig spent: 670537500.0
+Olympique Lyon spent: 142830000.0
+LOSC Lille spent: 139850000.0
+Paris Saint-Germain spent: 3627500000.0
+Olympique Marseille spent: 1158920000.0
+AS Monaco has 0 trophies
