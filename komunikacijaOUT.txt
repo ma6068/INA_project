@@ -1,0 +1,151 @@
+Ekipa, OUT transferi za sekoj communiti, potroseni pari 
+Manchester United 
+Community 0, transferi: 12 pari: 258580000 
+Community 1, transferi: 19 pari: 194125000 
+Community 2, transferi: 18 pari: 68070000 
+Community 3, transferi: 100 pari: 685045000 
+Community 4, transferi: 14 pari: 73800000 
+Manchester City 
+Community 0, transferi: 18 pari: 182350000 
+Community 1, transferi: 37 pari: 155400000 
+Community 2, transferi: 30 pari: 455036000 
+Community 3, transferi: 113 pari: 507350000 
+Community 4, transferi: 63 pari: 379800000 
+Liverpool FC 
+Community 0, transferi: 10 pari: 105470000 
+Community 1, transferi: 25 pari: 126850000 
+Community 2, transferi: 20 pari: 180000000 
+Community 3, transferi: 113 pari: 856805000 
+Community 4, transferi: 26 pari: 447395000 
+Chelsea FC 
+Community 0, transferi: 39 pari: 868216000 
+Community 1, transferi: 48 pari: 415350000 
+Community 2, transferi: 59 pari: 600450000 
+Community 3, transferi: 136 pari: 1532230000 
+Community 4, transferi: 47 pari: 814750000 
+Arsenal FC 
+Community 0, transferi: 15 pari: 137150000 
+Community 1, transferi: 22 pari: 117500000 
+Community 2, transferi: 24 pari: 154450000 
+Community 3, transferi: 91 pari: 785850000 
+Community 4, transferi: 35 pari: 331340000 
+Paris Saint-Germain 
+Community 0, transferi: 13 pari: 222750000 
+Community 1, transferi: 78 pari: 596850000 
+Community 2, transferi: 14 pari: 215900000 
+Community 3, transferi: 17 pari: 320100000 
+Community 4, transferi: 25 pari: 353550000 
+Olympique Marseille 
+Community 0, transferi: 16 pari: 155200000 
+Community 1, transferi: 104 pari: 192725000 
+Community 2, transferi: 12 pari: 65150000 
+Community 3, transferi: 26 pari: 303140000 
+Community 4, transferi: 18 pari: 124150000 
+AS Monaco 
+Community 0, transferi: 21 pari: 157800000 
+Community 1, transferi: 145 pari: 1133655000 
+Community 2, transferi: 24 pari: 157300000 
+Community 3, transferi: 35 pari: 831820000 
+Community 4, transferi: 27 pari: 368525000 
+Olympique Lyon 
+Community 0, transferi: 11 pari: 67600000 
+Community 1, transferi: 91 pari: 407895000 
+Community 2, transferi: 16 pari: 167850000 
+Community 3, transferi: 13 pari: 379000000 
+Community 4, transferi: 20 pari: 369825000 
+LOSC Lille 
+Community 0, transferi: 15 pari: 267625000 
+Community 1, transferi: 116 pari: 543725000 
+Community 2, transferi: 10 pari: 81525000 
+Community 3, transferi: 24 pari: 502990000 
+Community 4, transferi: 14 pari: 66250000 
+Bayern Munich 
+Community 0, transferi: 15 pari: 217050000 
+Community 1, transferi: 10 pari: 102300000 
+Community 2, transferi: 51 pari: 407100000 
+Community 3, transferi: 7 pari: 151800000 
+Community 4, transferi: 10 pari: 204500000 
+Borussia Dortmund 
+Community 0, transferi: 6 pari: 45200000 
+Community 1, transferi: 8 pari: 136450000 
+Community 2, transferi: 78 pari: 527565000 
+Community 3, transferi: 18 pari: 734850000 
+Community 4, transferi: 16 pari: 524675000 
+RB Leipzig 
+Community 0, transferi: 4 pari: 74250000 
+Community 1, transferi: 9 pari: 23000000 
+Community 2, transferi: 51 pari: 347900000 
+Community 3, transferi: 14 pari: 401340000 
+Community 4, transferi: 3 pari: 18000000 
+Borussia Mönchengladbach 
+Community 0, transferi: 2 pari: 11700000 
+Community 1, transferi: 10 pari: 10100000 
+Community 2, transferi: 88 pari: 338410000 
+Community 3, transferi: 11 pari: 200800000 
+Community 4, transferi: 6 pari: 77350000 
+FC Schalke 04 
+Community 0, transferi: 5 pari: 38200000 
+Community 1, transferi: 22 pari: 87425000 
+Community 2, transferi: 99 pari: 382500000 
+Community 3, transferi: 22 pari: 201200000 
+Community 4, transferi: 16 pari: 41375000 
+AC Milan 
+Community 0, transferi: 205 pari: 648855000 
+Community 1, transferi: 56 pari: 363960000 
+Community 2, transferi: 19 pari: 181710000 
+Community 3, transferi: 22 pari: 167900000 
+Community 4, transferi: 41 pari: 216030000 
+Inter Milan 
+Community 0, transferi: 248 pari: 980875000 
+Community 1, transferi: 47 pari: 430175000 
+Community 2, transferi: 19 pari: 122300000 
+Community 3, transferi: 23 pari: 338700000 
+Community 4, transferi: 45 pari: 402800000 
+Juventus FC 
+Community 0, transferi: 306 pari: 1416899000 
+Community 1, transferi: 62 pari: 83110000 
+Community 2, transferi: 30 pari: 333180000 
+Community 3, transferi: 23 pari: 515600000 
+Community 4, transferi: 36 pari: 268150000 
+AS Roma 
+Community 0, transferi: 280 pari: 1132973000 
+Community 1, transferi: 60 pari: 406770000 
+Community 2, transferi: 19 pari: 260950000 
+Community 3, transferi: 30 pari: 706330000 
+Community 4, transferi: 46 pari: 265435000 
+SS Lazio 
+Community 0, transferi: 190 pari: 277320000 
+Community 1, transferi: 35 pari: 62925000 
+Community 2, transferi: 13 pari: 19175000 
+Community 3, transferi: 20 pari: 170450000 
+Community 4, transferi: 22 pari: 51425000 
+Real Madrid 
+Community 0, transferi: 15 pari: 555700000 
+Community 1, transferi: 15 pari: 181450000 
+Community 2, transferi: 18 pari: 287700000 
+Community 3, transferi: 22 pari: 794600000 
+Community 4, transferi: 56 pari: 808900000 
+FC Barcelona 
+Community 0, transferi: 14 pari: 237500000 
+Community 1, transferi: 16 pari: 493200000 
+Community 2, transferi: 16 pari: 258300000 
+Community 3, transferi: 21 pari: 519600000 
+Community 4, transferi: 70 pari: 656100000 
+Atlético de Madrid 
+Community 0, transferi: 16 pari: 133200000 
+Community 1, transferi: 32 pari: 410350000 
+Community 2, transferi: 13 pari: 190150000 
+Community 3, transferi: 28 pari: 789200000 
+Community 4, transferi: 113 pari: 856175000 
+Valencia CF 
+Community 0, transferi: 21 pari: 297950000 
+Community 1, transferi: 28 pari: 183900000 
+Community 2, transferi: 12 pari: 47100000 
+Community 3, transferi: 25 pari: 368500000 
+Community 4, transferi: 102 pari: 556850000 
+Athletic Bilbao 
+Community 0, transferi: 2 pari: 1300000 
+Community 1, transferi: 8 pari: 3600000 
+Community 2, transferi: 3 pari: 45200000 
+Community 3, transferi: 6 pari: 252000000 
+Community 4, transferi: 91 pari: 196400000 
