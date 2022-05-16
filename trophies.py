@@ -27,7 +27,7 @@ with open("money.txt", 'r', encoding='utf8') as f:
         else:
             rezultat = int(line[2]) / trofei[i]
             rezultat = rezultat / 1000000000
-            print(line[0] + " spent: " + str(rezultat) + " billion")
+            print(line[0] + " spent: " + str(round(rezultat, 4)) + " billion")
 
 
         i = i + 1
