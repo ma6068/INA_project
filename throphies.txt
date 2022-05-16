@@ -1,0 +1,25 @@
+Manchester United osvoi: 1.2624033605586382
+Chelsea FC osvoi: 0.2634433715264938
+Arsenal FC osvoi: 0.863509566902838
+Manchester City osvoi: 0.37649301312669053
+Liverpool FC osvoi: 0.4269514774077785
+Valencia CF osvoi: 0.08400555986679895
+Atlético de Madrid osvoi: 0
+Real Madrid osvoi: 1.3141514638461391
+FC Barcelona osvoi: 1.4740662406624065
+Athletic Bilbao osvoi: 0.37924591257924595
+AC Milan osvoi: 0.08592712185335336
+Juventus FC osvoi: 0.22337612863874
+SS Lazio osvoi: 0
+AS Roma osvoi: 0
+Inter Milan osvoi: 0.926161410138051
+Bayern Munich osvoi: 0
+Borussia Dortmund osvoi: 0
+FC Schalke 04 osvoi: 0.07359868558512357
+Borussia Mönchengladbach osvoi: 0
+RB Leipzig osvoi: 0.7756451780818748
+Olympique Lyon osvoi: 0.10216957445438743
+LOSC Lille osvoi: 0.09462335034997446
+Paris Saint-Germain osvoi: 2.1107296636797392
+Olympique Marseille osvoi: 1.3764467644141978
+AS Monaco osvoi: 0
