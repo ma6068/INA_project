@@ -1,0 +1,5 @@
+Parma Calcio 1913, 0.0855
+Udinese Calcio, 0.0548
+Genoa CFC, 0.0546
+Inter Milan, 0.036
+Chievo Verona, 0.0353
