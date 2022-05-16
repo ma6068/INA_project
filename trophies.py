@@ -10,4 +10,25 @@ best_teams = ['Manchester United', 'Manchester City', 'Liverpool FC', 'Chelsea F
               'AC Milan', 'Inter Milan', 'Juventus FC', 'AS Roma', 'SS Lazio',
               'Real Madrid', 'FC Barcelona', 'Atlético de Madrid', 'Valencia CF', 'Athletic Bilbao']
 
-trofei = []
+trofei = [2, 5, 2, 6, 4,
+          14, 0, 1, 1, 3,
+          15, 4, 0, 0, 1,
+          0, 0, 14, 0, 2,
+          10, 10, 1, 1, 0]
+
+
+with open("money.txt", 'r', encoding='utf8') as f:
+    f.readline()
+    i = 0
+    for line in f:
+        line = line.split(',')
+        pariOdTim = int(line[2]) / int(line[1])
+        if (trofei[i] == 0):
+            print(line[0] + " osvoi: 0")
+        else:
+            rezultat = pariOdTim / trofei[i]
+            print(line[0] + " osvoi: " + str(rezultat))
+
+
+        i = i + 1
+
