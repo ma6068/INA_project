@@ -4,17 +4,18 @@ best_teams_ids = [985, 281, 31, 631, 11,
                   5, 46, 506, 12, 398,
                   418, 131, 13, 1049, 621]
 
-best_teams = ['Manchester United', 'Manchester City', 'Liverpool FC', 'Chelsea FC', 'Arsenal FC',
-              'Paris Saint-Germain', 'Olympique Marseille', 'AS Monaco', 'Olympique Lyon', 'LOSC Lille',
-              'Bayern Munich', 'Borussia Dortmund', 'RB Leipzig', 'Borussia Mönchengladbach', 'FC Schalke 04',
-              'AC Milan', 'Inter Milan', 'Juventus FC', 'AS Roma', 'SS Lazio',
-              'Real Madrid', 'FC Barcelona', 'Atlético de Madrid', 'Valencia CF', 'Athletic Bilbao']
+best_teams = ['Manchester United', 'Chelsea FC', 'Arsenal FC', 'Manchester City', 'Liverpool FC',
+              'Valencia CF', 'Atlético de Madrid', 'Real Madrid', 'FC Barcelona',  'Athletic Bilbao',
+              'AC Milan', 'Juventus FC', 'SS Lazio', 'AS Roma', 'Inter Milan',
+              'Bayern Munich', 'Borussia Dortmund', 'FC Schalke 04', 'Borussia Mönchengladbach', 'RB Leipzig',
+              'Olympique Lyon', 'LOSC Lille', 'Paris Saint-Germain', 'Olympique Marseille', 'AS Monaco']
 
-trofei = [2, 5, 2, 6, 4,
-          14, 0, 1, 1, 3,
-          15, 4, 0, 0, 1,
-          0, 0, 14, 0, 2,
-          10, 10, 1, 1, 0]
+trofei = [2, 6, 4, 5, 2,
+          1, 1, 10, 10, 0,
+          0, 14, 2, 0, 0,
+          15, 4, 1, 0, 0,
+          1, 3, 14, 0, 1]
+
 
 
 with open("money.txt", 'r', encoding='utf8') as f:

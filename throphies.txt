@@ -1,25 +1,25 @@
 Manchester United spent: 1.6198 billion
-Chelsea FC spent: 1.137 billion
-Arsenal FC spent: 1.3187 billion
-Manchester City spent: 0.6325 billion
-Liverpool FC spent: 0.7329 billion
-Valencia CF spent: 0.1222 billion
-Atlético de Madrid has 0 trophies
-Real Madrid spent: 3.4541 billion
-FC Barcelona spent: 3.2757 billion
-Athletic Bilbao spent: 0.1894 billion
-AC Milan spent: 0.1448 billion
-Juventus FC spent: 0.7174 billion
-SS Lazio has 0 trophies
+Chelsea FC spent: 0.9475 billion
+Arsenal FC spent: 0.6593 billion
+Manchester City spent: 0.759 billion
+Liverpool FC spent: 1.4657 billion
+Valencia CF spent: 1.7104 billion
+Atlético de Madrid spent: 3.2276 billion
+Real Madrid spent: 0.3454 billion
+FC Barcelona spent: 0.3276 billion
+Athletic Bilbao has 0 trophies
+AC Milan has 0 trophies
+Juventus FC spent: 0.205 billion
+SS Lazio spent: 0.4349 billion
 AS Roma has 0 trophies
-Inter Milan spent: 2.1569 billion
-Bayern Munich has 0 trophies
-Borussia Dortmund has 0 trophies
-FC Schalke 04 spent: 0.0554 billion
+Inter Milan has 0 trophies
+Bayern Munich spent: 0.1523 billion
+Borussia Dortmund spent: 0.5881 billion
+FC Schalke 04 spent: 0.775 billion
 Borussia Mönchengladbach has 0 trophies
-RB Leipzig spent: 0.6705 billion
-Olympique Lyon spent: 0.1428 billion
-LOSC Lille spent: 0.1399 billion
-Paris Saint-Germain spent: 3.6275 billion
-Olympique Marseille spent: 1.1589 billion
-AS Monaco has 0 trophies
+RB Leipzig has 0 trophies
+Olympique Lyon spent: 1.4283 billion
+LOSC Lille spent: 0.4662 billion
+Paris Saint-Germain spent: 0.2591 billion
+Olympique Marseille has 0 trophies
+AS Monaco spent: 2.877 billion
